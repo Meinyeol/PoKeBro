@@ -1,0 +1,2831 @@
+id,identifier,height,weight,base_experience,order,is_default,flavor_text
+1,bulbasaur,7,69,64,1,1,"A strange seed was
+planted on its
+back at birth.The plant sprouts
+and grows with
+this POKéMON."
+2,ivysaur,10,130,142,2,1,"When the bulb on
+its back grows
+large, it appearsto lose the
+ability to stand
+on its hind legs."
+3,venusaur,20,1000,236,3,1,"The plant blooms
+when it is
+absorbing solarenergy. It stays
+on the move to
+seek sunlight."
+4,charmander,6,85,62,5,1,"Obviously prefers
+hot places. When
+it rains, steamis said to spout
+from the tip of
+its tail."
+5,charmeleon,11,190,142,6,1,"When it swings
+its burning tail,
+it elevates thetemperature to
+unbearably high
+levels."
+6,charizard,17,905,240,7,1,"Spits fire that
+is hot enough to
+melt boulders.Known to cause
+forest fires
+unintentionally."
+7,squirtle,5,90,63,10,1,"After birth, its
+back swells and
+hardens into ashell. Powerfully
+sprays foam from
+its mouth."
+8,wartortle,10,225,142,11,1,"Often hides in
+water to stalk
+unwary prey. Forswimming fast, it
+moves its ears to
+maintain balance."
+9,blastoise,16,855,239,12,1,"A brutal POKéMON
+with pressurized
+water jets on itsshell. They are
+used for high
+speed tackles."
+10,caterpie,3,29,39,14,1,"Its short feet
+are tipped with
+suction pads thatenable it to
+tirelessly climb
+slopes and walls."
+11,metapod,7,99,72,15,1,"This POKéMON is
+vulnerable to
+attack while itsshell is soft,
+exposing its weak
+and tender body."
+12,butterfree,11,320,173,16,1,"In battle, it
+flaps its wings
+at high speed torelease highly
+toxic dust into
+the air."
+13,weedle,3,32,39,17,1,"Often found in
+forests, eating
+leaves.It has a sharp
+venomous stinger
+on its head."
+14,kakuna,6,100,72,18,1,"Almost incapable
+of moving, this
+POKéMON can onlyharden its shell
+to protect itself
+from predators."
+15,beedrill,10,295,173,19,1,"Flies at high
+speed and attacks
+using its largevenomous stingers
+on its forelegs
+and tail."
+16,pidgey,3,18,50,20,1,"A common sight in
+forests and woods.
+It flaps itswings at ground
+level to kick up
+blinding sand."
+17,pidgeotto,11,300,122,21,1,"Very protective
+of its sprawling
+territorial area,this POKéMON will
+fiercely peck at
+any intruder."
+18,pidgeot,15,395,211,22,1,"When hunting, it
+skims the surface
+of water at highspeed to pick off
+unwary prey such
+as MAGIKARP."
+19,rattata,3,35,51,23,1,"Bites anything
+when it attacks.
+Small and veryquick, it is a
+common sight in
+many places."
+20,raticate,7,185,145,24,1,"It uses its whis­
+kers to maintain
+its balance.It apparently
+slows down if
+they are cut off."
+21,spearow,3,20,52,25,1,"Eats bugs in
+grassy areas. It
+has to flap itsshort wings at
+high speed to
+stay airborne."
+22,fearow,12,380,155,26,1,"With its huge and
+magnificent wings,
+it can keep aloftwithout ever
+having to land
+for rest."
+23,ekans,20,69,58,27,1,"Moves silently
+and stealthily.
+Eats the eggs ofbirds, such as
+PIDGEY and
+SPEAROW, whole."
+24,arbok,35,650,153,28,1,"It is rumored that
+the ferocious
+warning markingson its belly
+differ from area
+to area."
+25,pikachu,4,60,105,30,1,"When several of
+these POKéMON
+gather, theirelectricity could
+build and cause
+lightning storms."
+26,raichu,8,300,214,31,1,"Its long tail
+serves as a
+ground to protectitself from its
+own high voltage
+power."
+27,sandshrew,6,120,60,32,1,"Burrows deep
+underground in
+arid locationsfar from water.
+It only emerges
+to hunt for food."
+28,sandslash,10,295,158,33,1,"Curls up into a
+spiny ball when
+threatened. Itcan roll while
+curled up to
+attack or escape."
+29,nidoran-f,4,70,55,34,1,"Although small,
+its venomous
+barbs render thisPOKéMON dangerous.
+The female has
+smaller horns."
+30,nidorina,8,200,128,35,1,"The female's horn
+develops slowly.
+Prefers physicalattacks such as
+clawing and
+biting."
+31,nidoqueen,13,600,223,36,1,"Its hard scales
+provide strong
+protection. Ituses its hefty
+bulk to execute
+powerful moves."
+32,nidoran-m,5,90,55,37,1,"Stiffens its ears
+to sense danger.
+The larger itshorns, the more
+powerful its
+secreted venom."
+33,nidorino,9,195,128,38,1,"An aggressive
+POKéMON that is
+quick to attack.The horn on its
+head secretes a
+powerful venom."
+34,nidoking,14,620,223,39,1,"It uses its
+powerful tail in
+battle to smash,constrict, then
+break the prey's
+bones."
+35,clefairy,6,75,113,41,1,"Its magical and
+cute appeal has
+many admirers.It is rare and
+found only in
+certain areas."
+36,clefable,13,400,213,42,1,"A timid fairy
+POKéMON that is
+rarely seen. Itwill run and hide
+the moment it
+senses people."
+37,vulpix,6,99,60,43,1,"At the time of
+birth, it has
+just one tail.The tail splits
+from its tip as
+it grows older."
+38,ninetales,11,199,177,44,1,"Very smart and
+very vengeful.
+Grabbing one ofits many tails
+could result in a
+1000-year curse."
+39,jigglypuff,5,55,95,46,1,"When its huge eyes
+light up, it sings
+a mysteriouslysoothing melody
+that lulls its
+enemies to sleep."
+40,wigglytuff,10,120,191,47,1,"The body is soft
+and rubbery. When
+angered, it willsuck in air and
+inflate itself to
+an enormous size."
+41,zubat,8,75,49,48,1,"Forms colonies in
+perpetually dark
+places. Usesultrasonic waves
+to identify and
+approach targets."
+42,golbat,16,550,159,49,1,"Once it strikes,
+it will not stop
+draining energyfrom the victim
+even if it gets
+too heavy to fly."
+43,oddish,5,54,64,51,1,"During the day,
+it keeps its face
+buried in theground. At night,
+it wanders around
+sowing its seeds."
+44,gloom,8,86,138,52,1,"The fluid that
+oozes from its
+mouth isn't drool.It is a nectar
+that is used to
+attract prey."
+45,vileplume,12,186,216,53,1,"The larger its
+petals, the more
+toxic pollen itcontains. Its big
+head is heavy and
+hard to hold up."
+46,paras,3,54,57,55,1,"Burrows to suck
+tree roots. The
+mushrooms on itsback grow by draw­
+ing nutrients from
+the bug host."
+47,parasect,10,295,142,56,1,"A host-parasite
+pair in which the
+parasite mushroomhas taken over the
+host bug. Prefers
+damp places."
+48,venonat,10,300,61,57,1,"Lives in the
+shadows of tall
+trees where iteats insects. It
+is attracted by
+light at night."
+49,venomoth,15,125,158,58,1,"The dust-like
+scales covering
+its wings arecolor coded to
+indicate the kinds
+of poison it has."
+50,diglett,2,8,53,59,1,"Lives about one
+yard underground
+where it feeds onplant roots. It
+sometimes appears
+above ground."
+51,dugtrio,7,333,142,60,1,"A team of DIGLETT
+triplets.
+It triggers hugeearthquakes by
+burrowing 60 miles
+underground."
+52,meowth,4,42,58,61,1,"Adores circular
+objects. Wanders
+the streets on anightly basis to
+look for dropped
+loose change."
+53,persian,10,320,154,62,1,"Although its fur
+has many admirers,
+it is tough toraise as a pet
+because of its
+fickle meanness."
+54,psyduck,8,196,64,63,1,"While lulling its
+enemies with its
+vacant look, thiswily POKéMON will
+use psychokinetic
+powers."
+55,golduck,17,766,175,64,1,"Often seen swim­
+ming elegantly by
+lake shores. Itis often mistaken
+for the Japanese
+monster, Kappa."
+56,mankey,5,280,61,65,1,"Extremely quick to
+anger. It could
+be docile onemoment then
+thrashing away
+the next instant."
+57,primeape,10,320,159,66,1,"Always furious
+and tenacious to
+boot. It will notabandon chasing
+its quarry until
+it is caught."
+58,growlithe,7,190,70,67,1,"Very protective
+of its territory.
+It will bark andbite to repel
+intruders from
+its space."
+59,arcanine,19,1550,194,68,1,"A POKéMON that
+has been admired
+since the pastfor its beauty.
+It runs agilely
+as if on wings."
+60,poliwag,6,124,60,69,1,"Its newly grown
+legs prevent it
+from running. Itappears to prefer
+swimming than
+trying to stand."
+61,poliwhirl,10,200,135,70,1,"Capable of living
+in or out of
+water. When outof water, it
+sweats to keep
+its body slimy."
+62,poliwrath,13,540,225,71,1,"An adept swimmer
+at both the front
+crawl and breaststroke. Easily
+overtakes the best
+human swimmers."
+63,abra,9,195,62,73,1,"Using its ability
+to read minds, it
+will identifyimpending danger
+and TELEPORT to
+safety."
+64,kadabra,13,565,140,74,1,"It emits special
+alpha waves from
+its body thatinduce headaches
+just by being
+close by."
+65,alakazam,15,480,221,75,1,"Its brain can out­
+perform a super­
+computer.Its intelligence
+quotient is said
+to be 5,000."
+66,machop,8,195,61,77,1,"Loves to build
+its muscles.
+It trains in allstyles of martial
+arts to become
+even stronger."
+67,machoke,15,705,142,78,1,"Its muscular body
+is so powerful, it
+must wear a powersave belt to be
+able to regulate
+its motions."
+68,machamp,16,1300,227,79,1,"Using its heavy
+muscles, it throws
+powerful punchesthat can send the
+victim clear over
+the horizon."
+69,bellsprout,7,40,60,80,1,"A carnivorous
+POKéMON that traps
+and eats bugs.It uses its root
+feet to soak up
+needed moisture."
+70,weepinbell,10,64,137,81,1,"It spits out
+POISONPOWDER to
+immobilize theenemy and then
+finishes it with
+a spray of ACID."
+71,victreebel,17,155,216,82,1,"Said to live in
+huge colonies
+deep in jungles,although no one
+has ever returned
+from there."
+72,tentacool,9,455,67,83,1,"Drifts in shallow
+seas. Anglers who
+hook them byaccident are
+often punished by
+its stinging acid."
+73,tentacruel,16,550,180,84,1,"The tentacles are
+normally kept
+short. On hunts,they are extended
+to ensnare and
+immobilize prey."
+74,geodude,4,200,60,85,1,"Found in fields
+and mountains.
+Mistaking themfor boulders,
+people often step
+or trip on them."
+75,graveler,10,1050,137,86,1,"Rolls down slopes
+to move. It rolls
+over any obstaclewithout slowing
+or changing its
+direction."
+76,golem,14,3000,218,87,1,"Its boulder-like
+body is extremely
+hard. It caneasily withstand
+dynamite blasts
+without damage."
+77,ponyta,10,300,82,88,1,"Its hooves are 10
+times harder than
+diamonds. It cantrample anything
+completely flat
+in little time."
+78,rapidash,17,950,175,89,1,"Very competitive,
+this POKéMON will
+chase anythingthat moves fast
+in the hopes of
+racing it."
+79,slowpoke,12,360,63,90,1,"Incredibly slow
+and dopey. It
+takes 5 secondsfor it to feel
+pain when under
+attack."
+80,slowbro,16,785,172,91,1,"The SHELLDER that
+is latched onto
+SLOWPOKE's tailis said to feed
+on the host's left
+over scraps."
+81,magnemite,3,60,65,93,1,"Uses anti-gravity
+to stay suspended.
+Appears withoutwarning and uses
+THUNDER WAVE and
+similar moves."
+82,magneton,10,600,163,94,1,"Formed by several
+MAGNEMITEs linked
+together. Theyfrequently appear
+when sunspots
+flare up."
+83,farfetchd,8,150,123,96,1,"The sprig of
+green onions it
+holds is itsweapon. It is
+used much like a
+metal sword."
+84,doduo,14,392,62,97,1,"A bird that makes
+up for its poor
+flying with itsfast foot speed.
+Leaves giant
+footprints."
+85,dodrio,18,852,161,98,1,"Uses its three
+brains to execute
+complex plans.While two heads
+sleep, one head
+stays awake."
+86,seel,11,900,65,99,1,"The protruding
+horn on its head
+is very hard.It is used for
+bashing through
+thick ice."
+87,dewgong,17,1200,166,100,1,"Stores thermal
+energy in its
+body. Swims at asteady 8 knots
+even in intensely
+cold waters."
+88,grimer,9,300,65,101,1,"Appears in filthy
+areas. Thrives by
+sucking uppolluted sludge
+that is pumped
+out of factories."
+89,muk,12,300,175,102,1,"Thickly covered
+with a filthy,
+vile sludge. Itis so toxic, even
+its footprints
+contain poison."
+90,shellder,3,40,61,103,1,"Its hard shell
+repels any kind
+of attack.It is vulnerable
+only when its
+shell is open."
+91,cloyster,15,1325,184,104,1,"When attacked, it
+launches its
+horns in quickvolleys. Its
+innards have
+never been seen."
+92,gastly,13,1,62,105,1,"Almost invisible,
+this gaseous
+POKéMON cloaksthe target and
+puts it to sleep
+without notice."
+93,haunter,16,1,142,106,1,"Because of its
+ability to slip
+through blockwalls, it is said
+to be from an­
+other dimension."
+94,gengar,15,405,225,107,1,"Under a full moon,
+this POKéMON
+likes to mimicthe shadows of
+people and laugh
+at their fright."
+95,onix,88,2100,77,109,1,"As it grows, the
+stone portions of
+its body hardento become similar
+to a diamond, but
+colored black."
+96,drowzee,10,324,66,111,1,"Puts enemies to
+sleep then eats
+their dreams.Occasionally gets
+sick from eating
+bad dreams."
+97,hypno,16,756,169,112,1,"When it locks eyes
+with an enemy, it
+will use a mix ofPSI moves such as
+HYPNOSIS and
+CONFUSION."
+98,krabby,4,65,65,113,1,"Its pincers are
+not only powerful
+weapons, they areused for balance
+when walking
+sideways."
+99,kingler,13,600,166,114,1,"The large pincer
+has 10000 hp of
+crushing power.However, its huge
+size makes it
+unwieldy to use."
+100,voltorb,5,104,66,115,1,"Usually found in
+power plants.
+Easily mistakenfor a POKé BALL,
+they have zapped
+many people."
+101,electrode,12,666,168,116,1,"It stores electric
+energy under very
+high pressure.It often explodes
+with little or no
+provocation."
+102,exeggcute,4,25,65,117,1,"Often mistaken
+for eggs.
+When disturbed,they quickly
+gather and attack
+in swarms."
+103,exeggutor,20,1200,182,118,1,"Legend has it that
+on rare occasions,
+one of its headswill drop off and
+continue on as an
+EXEGGCUTE."
+104,cubone,4,65,64,119,1,"Because it never
+removes its skull
+helmet, no onehas ever seen
+this POKéMON's
+real face."
+105,marowak,10,450,149,120,1,"The bone it holds
+is its key weapon.
+It throws thebone skillfully
+like a boomerang
+to KO targets."
+106,hitmonlee,15,498,159,122,1,"When in a hurry,
+its legs lengthen
+progressively.It runs smoothly
+with extra long,
+loping strides."
+107,hitmonchan,14,502,159,123,1,"While apparently
+doing nothing, it
+fires punches inlightning fast
+volleys that are
+impossible to see."
+108,lickitung,12,655,77,125,1,"Its tongue can be
+extended like a
+chameleon's. Itleaves a tingling
+sensation when it
+licks enemies."
+109,koffing,6,10,68,127,1,"Because it stores
+several kinds of
+toxic gases inits body, it is
+prone to exploding
+without warning."
+110,weezing,12,95,172,128,1,"Where two kinds
+of poison gases
+meet, 2 KOFFINGscan fuse into a
+WEEZING over many
+years."
+111,rhyhorn,10,1150,69,129,1,"Its massive bones
+are 1000 times
+harder than humanbones. It can
+easily knock a
+trailer flying."
+112,rhydon,19,1200,170,130,1,"Protected by an
+armor-like hide,
+it is capable ofliving in molten
+lava of 3,600
+degrees."
+113,chansey,11,346,395,133,1,"A rare and elusive
+POKéMON that is
+said to bringhappiness to those
+who manage to get
+it."
+114,tangela,10,350,87,135,1,"The whole body is
+swathed with wide
+vines that aresimilar to sea­
+weed. Its vines
+shake as it walks."
+115,kangaskhan,22,800,172,137,1,"The infant rarely
+ventures out of
+its mother'sprotective pouch
+until it is 3
+years old."
+116,horsea,4,80,59,139,1,"Known to shoot
+down flying bugs
+with precisionblasts of ink
+from the surface
+of the water."
+117,seadra,12,250,154,140,1,"Capable of swim­
+ming backwards by
+rapidly flappingits wing-like
+pectoral fins and
+stout tail."
+118,goldeen,6,150,64,142,1,"Its tail fin
+billows like an
+elegant ballroomdress, giving it
+the nickname of
+the Water Queen."
+119,seaking,13,390,158,143,1,"In the autumn
+spawning season,
+they can be seenswimming power­
+fully up rivers
+and creeks."
+120,staryu,8,345,68,144,1,"An enigmatic
+POKéMON that can
+effortlesslyregenerate any
+appendage it
+loses in battle."
+121,starmie,11,800,182,145,1,"Its central core
+glows with the
+seven colors ofthe rainbow. Some
+people value the
+core as a gem."
+122,mr-mime,13,545,161,147,1,"If interrupted
+while it is
+miming, it willslap around the
+offender with its
+broad hands."
+123,scyther,15,560,100,148,1,"With ninja-like
+agility and speed,
+it can create theillusion that
+there is more
+than one."
+124,jynx,14,406,159,152,1,"It seductively
+wiggles its hips
+as it walks. Itcan cause people
+to dance in
+unison with it."
+125,electabuzz,11,300,172,154,1,"Normally found
+near power plants,
+they can wanderaway and cause
+major blackouts
+in cities."
+126,magmar,13,445,173,157,1,"Its body always
+burns with an
+orange glow thatenables it to
+hide perfectly
+among flames."
+127,pinsir,15,550,175,159,1,"If it fails to
+crush the victim
+in its pincers,it will swing it
+around and toss
+it hard."
+128,tauros,14,884,172,161,1,"When it targets
+an enemy, it
+charges furiouslywhile whipping its
+body with its
+long tails."
+129,magikarp,9,100,40,162,1,"In the distant
+past, it was
+somewhat strongerthan the horribly
+weak descendants
+that exist today."
+130,gyarados,65,2350,189,163,1,"Rarely seen in
+the wild. Huge
+and vicious, itis capable of
+destroying entire
+cities in a rage."
+131,lapras,25,2200,187,165,1,"A POKéMON that
+has been over­
+hunted almost toextinction. It
+can ferry people
+across the water."
+132,ditto,3,40,101,166,1,"Capable of copying
+an enemy's genetic
+code to instantlytransform itself
+into a duplicate
+of the enemy."
+133,eevee,3,65,65,167,1,"Its genetic code
+is irregular.
+It may mutate ifit is exposed to
+radiation from
+element STONEs."
+134,vaporeon,10,290,184,168,1,"Lives close to
+water. Its long
+tail is ridgedwith a fin which
+is often mistaken
+for a mermaid's."
+135,jolteon,8,245,184,169,1,"It accumulates
+negative ions in
+the atmosphere toblast out 10000-
+volt lightning
+bolts."
+136,flareon,9,250,184,170,1,"When storing
+thermal energy in
+its body, itstemperature could
+soar to over 1600
+degrees."
+137,porygon,8,365,79,176,1,"A POKéMON that
+consists entirely
+of programmingcode. Capable of
+moving freely in
+cyberspace."
+138,omanyte,4,75,71,179,1,"Although long
+extinct, in rare
+cases, it can begenetically
+resurrected from
+fossils."
+139,omastar,10,350,173,180,1,"A prehistoric
+POKéMON that died
+out when itsheavy shell made
+it impossible to
+catch prey."
+140,kabuto,5,115,71,181,1,"A POKéMON that
+was resurrected
+from a fossilfound in what was
+once the ocean
+floor eons ago."
+141,kabutops,13,405,173,182,1,"Its sleek shape is
+perfect for swim­
+ming. It slashesprey with its
+claws and drains
+the body fluids."
+142,aerodactyl,18,590,180,183,1,"A ferocious, pre­
+historic POKéMON
+that goes for theenemy's throat
+with its serrated
+saw-like fangs."
+143,snorlax,21,4600,189,186,1,"Very lazy. Just
+eats and sleeps.
+As its rotundbulk builds, it
+becomes steadily
+more slothful."
+144,articuno,17,554,261,187,1,"A legendary bird
+POKéMON that is
+said to appear todoomed people who
+are lost in icy
+mountains."
+145,zapdos,16,526,261,188,1,"A legendary bird
+POKéMON that is
+said to appearfrom clouds while
+dropping enormous
+lightning bolts."
+146,moltres,20,600,261,189,1,"Known as the
+legendary bird of
+fire. Every flapof its wings
+creates a dazzling
+flash of flames."
+147,dratini,18,33,60,190,1,"Long considered a
+mythical POKéMON
+until recentlywhen a small
+colony was found
+living underwater."
+148,dragonair,40,165,147,191,1,"A mystical POKéMON
+that exudes a
+gentle aura.Has the ability
+to change climate
+conditions."
+149,dragonite,22,2100,270,192,1,"An extremely
+rarely seen
+marine POKéMON.Its intelligence
+is said to match
+that of humans."
+150,mewtwo,20,1220,306,193,1,"It was created by
+a scientist after
+years of horrificgene splicing and
+DNA engineering
+experiments."
+151,mew,4,40,270,196,1,"So rare that it
+is still said to
+be a mirage bymany experts. Only
+a few people have
+seen it worldwide."
+152,chikorita,9,64,64,197,1,"A sweet aroma
+gently wafts from
+the leaf on itshead. It is docile
+and loves to soak
+up the sun's rays."
+153,bayleef,12,158,142,198,1,"The scent of
+spices comes from
+around its neck.Somehow, sniffing
+it makes you want
+to fight."
+154,meganium,18,1005,236,199,1,"The aroma that
+rises from its
+petals contains asubstance that
+calms aggressive
+feelings."
+155,cyndaquil,5,79,62,200,1,"It is timid, and
+always curls it­
+self up in a ball.If attacked, it
+flares up its back
+for protection."
+156,quilava,9,190,142,201,1,"Be careful if it
+turns its back
+during battle. Itmeans that it will
+attack with the
+fire on its back."
+157,typhlosion,17,795,240,202,1,"If its rage peaks,
+it becomes so hot
+that anything thattouches it will
+instantly go
+up in flames."
+158,totodile,6,95,63,203,1,"Its well-developed
+jaws are powerful
+and capable ofcrushing anything.
+Even its trainer
+must be careful."
+159,croconaw,11,250,142,204,1,"If it loses a
+fang, a new one
+grows back in itsplace. There are
+always 48 fangs
+lining its mouth."
+160,feraligatr,23,888,239,205,1,"When it bites with
+its massive and
+powerful jaws, itshakes its head
+and savagely tears
+its victim up."
+161,sentret,8,60,43,206,1,"A very cautious
+POKéMON, it raises
+itself up usingits tail to get a
+better view of its
+surroundings."
+162,furret,18,325,145,207,1,"It makes a nest to
+suit its long and
+skinny body. Thenest is impossible
+for other POKéMON
+to enter."
+163,hoothoot,7,212,52,208,1,"It always stands
+on one foot. It
+changes feet sofast, the movement
+can rarely be
+seen."
+164,noctowl,16,408,155,209,1,"Its eyes are
+specially adapted.
+They concentrateeven faint light
+and enable it to
+see in the dark."
+165,ledyba,10,108,53,210,1,"It is very timid.
+It will be afraid
+to move if it isalone. But it will
+be active if it is
+in a group."
+166,ledian,14,356,137,211,1,"When the stars
+flicker in the
+night sky, itflutters about,
+scattering a
+glowing powder."
+167,spinarak,5,85,50,212,1,"It lies still in
+the same pose for
+days in its web,waiting for its
+unsuspecting prey
+to wander close."
+168,ariados,11,335,137,213,1,"It spins string
+not only from its
+rear but also fromits mouth. It is
+hard to tell which
+end is which."
+169,crobat,18,750,241,50,1,"It flies so si­
+lently through the
+dark on its fourwings that it may
+not be noticed
+even when nearby."
+170,chinchou,5,120,66,214,1,"It shoots positive
+and negative elec­
+tricity betweenthe tips of its
+two antennae and
+zaps its enemies."
+171,lanturn,12,225,161,215,1,"The light it emits
+is so bright that
+it can illuminatethe sea's surface
+from a depth of
+over three miles."
+172,pichu,3,20,41,29,1,"It is not yet
+skilled at storing
+electricity.It may send out a
+jolt if amused
+or startled."
+173,cleffa,3,30,44,40,1,"Because of its
+unusual, star-like
+silhouette, peoplebelieve that it
+came here on
+a meteor."
+174,igglybuff,3,10,42,45,1,"It has a very soft
+body. If it starts
+to roll, it willbounce all over
+and be impossible
+to stop."
+175,togepi,3,15,49,216,1,"The shell seems to
+be filled with
+joy. It is saidthat it will share
+good luck when
+treated kindly."
+176,togetic,6,32,142,217,1,"They say that it
+will appear before
+kindhearted, car­ing people and
+shower them with
+happiness."
+177,natu,2,20,64,219,1,"Because its wings
+aren't yet fully
+grown, it has tohop to get around.
+It is always star­
+ing at something."
+178,xatu,15,150,165,220,1,"They say that it
+stays still and
+quiet because itis seeing both the
+past and future at
+the same time."
+179,mareep,6,78,56,221,1,"If static elec­
+tricity builds in
+its body, itsfleece doubles in
+volume. Touching
+it will shock you."
+180,flaaffy,8,133,128,222,1,"As a result of
+storing too much
+electricity, itdeveloped patches
+where even downy
+wool won't grow."
+181,ampharos,14,615,225,223,1,"The tail's tip
+shines brightly
+and can be seenfrom far away. It
+acts as a beacon
+for lost people."
+182,bellossom,4,58,216,54,1,"BELLOSSOM gather
+at times and
+appear to dance.They say that the
+dance is a ritual
+to summon the sun."
+183,marill,4,85,88,226,1,"The tip of its
+tail, which con­
+tains oil that islighter than wa­
+ter, lets it swim
+without drowning."
+184,azumarill,8,285,185,227,1,"By keeping still
+and listening in­
+tently, it cantell what is in
+even wild, fast-
+moving rivers."
+185,sudowoodo,12,380,144,229,1,"Although it always
+pretends to be a
+tree, its composi­tion appears to be
+closer to a rock
+than a plant."
+186,politoed,11,339,225,72,1,"If POLIWAG and
+POLIWHIRL hear its
+echoing cry, theyrespond by gather­
+ing from far and
+wide."
+187,hoppip,4,5,50,230,1,"To keep from being
+blown away by the
+wind, they gatherin clusters. They
+do enjoy gentle
+breezes, though."
+188,skiploom,6,10,119,231,1,"The bloom on top
+of its head opens
+and closes as thetemperature fluc­
+tuates up and
+down."
+189,jumpluff,8,30,203,232,1,"Once it catches
+the wind, it deft­
+ly controls itscotton-puff spores
+to float, even
+around the world."
+190,aipom,8,115,72,233,1,"Its tail is so
+powerful that it
+can use it to graba tree branch and
+hold itself up in
+the air."
+191,sunkern,3,18,36,235,1,"It may drop out of
+the sky suddenly.
+If attacked by aSPEAROW, it will
+violently shake
+its leaves."
+192,sunflora,8,85,149,236,1,"It converts sun­
+light into energy.
+In the darknessafter sunset, it
+closes its petals
+and becomes still."
+193,yanma,12,380,78,237,1,"If it flaps its
+wings really fast,
+it can generateshock waves that
+will shatter win­
+dows in the area."
+194,wooper,4,85,42,239,1,"This POKéMON lives
+in cold water. It
+will leave thewater to search
+for food when it
+gets cold outside."
+195,quagsire,14,750,151,240,1,"This carefree
+POKéMON has an
+easy-going nature.While swimming, it
+always bumps into
+boat hulls."
+196,espeon,9,265,184,171,1,"It uses the fine
+hair that covers
+its body to senseair currents and
+predict its ene­
+my's actions."
+197,umbreon,10,270,184,172,1,"When agitated,
+this POKéMON pro­
+tects itself byspraying poisonous
+sweat from its
+pores."
+198,murkrow,5,21,81,241,1,"Feared and loathed
+by many, it is
+believed to bringmisfortune to all
+those who see it
+at night."
+199,slowking,20,795,172,92,1,"It has incredible
+intellect and in­
+tuition. Whateverthe situation, it
+remains calm and
+collected."
+200,misdreavus,7,10,87,243,1,"It likes playing
+mischievous tricks
+such as screamingand wailing to
+startle people at
+night."
+201,unown,5,50,118,245,1,"Their shapes look
+like hieroglyphs
+on ancient tab­lets. It is said
+that the two are
+somehow related."
+202,wobbuffet,13,285,142,247,1,"It hates light and
+shock. If attack­
+ed, it inflatesits body to pump
+up its counter­
+strike."
+203,girafarig,15,415,159,248,1,"Its tail has a
+small brain of its
+own. Beware! Ifyou get close, it
+may react to your
+scent and bite."
+204,pineco,6,72,58,249,1,"It likes to make
+its shell thicker
+by adding layersof tree bark. The
+additional weight
+doesn't bother it."
+205,forretress,12,1258,163,250,1,"Its entire body is
+shielded by a
+steel-hard shell.What lurks inside
+the armor is a
+total mystery."
+206,dunsparce,15,140,145,251,1,"When spotted, this
+POKéMON escapes
+backward by furi­ously boring into
+the ground with
+its tail."
+207,gligar,11,648,86,252,1,"It flies straight
+at its target's
+face then clampsdown on the star­
+tled victim to
+inject poison."
+208,steelix,92,4000,179,110,1,"Its body has been
+compressed deep
+under the ground.As a result, it is
+even harder than a
+diamond."
+209,snubbull,6,78,60,254,1,"Although it looks
+frightening, it is
+actually kind andaffectionate. It
+is very popular
+among women."
+210,granbull,14,487,158,255,1,"It is actually
+timid and easily
+spooked. If at­tacked, it flails
+about to fend off
+its attacker."
+211,qwilfish,5,39,86,256,1,"To fire its poison
+spikes, it must
+inflate its bodyby drinking over
+2.6 gallons of
+water all at once."
+212,scizor,18,1180,175,149,1,"It swings its eye-
+patterned pincers
+up to scare itsfoes. This makes
+it look like it
+has three heads."
+213,shuckle,6,205,177,257,1,"The BERRIES it
+stores in its
+vase-like shelldecompose and
+become a gooey
+liquid."
+214,heracross,15,540,175,258,1,"This powerful
+POKéMON thrusts
+its prized hornunder its enemies’
+bellies then lifts
+and throws them."
+215,sneasel,9,280,86,260,1,"Its paws conceal
+sharp claws. If
+attacked, it sud­denly extends the
+claws and startles
+its enemy."
+216,teddiursa,6,88,66,262,1,"If it finds honey,
+its crescent mark
+glows. It alwayslicks its paws
+because they are
+soaked with honey."
+217,ursaring,18,1258,175,263,1,"Although it is a
+good climber, it
+prefers to snaptrees with its
+forelegs and eat
+fallen BERRIES."
+218,slugma,7,350,50,264,1,"It never sleeps.
+It has to keep
+moving because ifit stopped, its
+magma body would
+cool and harden."
+219,magcargo,8,550,144,265,1,"The shell on its
+back is just skin
+that has cooledand hardened. It
+breaks easily with
+a slight touch."
+220,swinub,4,65,50,266,1,"It rubs its snout
+on the ground to
+find and dig upfood. It sometimes
+discovers hot
+springs."
+221,piloswine,11,558,158,267,1,"Because the long
+hair all over its
+body obscures itssight, it just
+keeps charging
+repeatedly."
+222,corsola,6,50,133,269,1,"It continuously
+sheds and grows.
+The tip of itshead is prized as
+a treasure for its
+beauty."
+223,remoraid,6,120,60,270,1,"It has superb ac­
+curacy. The water
+it shoots out canstrike even moving
+prey from more
+than 300 feet."
+224,octillery,9,285,168,271,1,"It traps enemies
+with its suction-
+cupped tentaclesthen smashes them
+with its rock-hard
+head."
+225,delibird,9,160,116,272,1,"It carries food
+all day long.
+There are talesabout lost people
+who were saved by
+the food it had."
+226,mantine,21,2200,163,274,1,"As it majestically
+swims, it doesn't
+care if REMORAIDattach to it for
+scavenging its
+leftovers."
+227,skarmory,17,505,163,275,1,"Its sturdy wings
+look heavy, but
+they are actuallyhollow and light,
+allowing it to fly
+freely in the sky."
+228,houndour,6,108,66,276,1,"It uses different
+kinds of cries for
+communicating withothers of its kind
+and for pursuing
+its prey."
+229,houndoom,14,350,175,277,1,"If you are burned
+by the flames it
+shoots from itsmouth, the pain
+will never go
+away."
+230,kingdra,18,1520,243,141,1,"It is said that it
+usually hides in
+underwater caves.It can create
+whirlpools by
+yawning."
+231,phanpy,5,335,66,279,1,"It swings its long
+snout around play­
+fully, but becauseit is so strong,
+that can be dan­
+gerous."
+232,donphan,11,1200,175,280,1,"It has sharp, hard
+tusks and a rugged
+hide. Its TACKLEis strong enough
+to knock down a
+house."
+233,porygon2,6,325,180,177,1,"This upgraded
+version of PORYGON
+is designed forspace exploration.
+It can't fly,
+though."
+234,stantler,14,712,163,281,1,"The curved antlers
+subtly change the
+flow of air tocreate a strange
+space where real­
+ity is distorted."
+235,smeargle,12,580,88,282,1,"A special fluid
+oozes from the tip
+of its tail. Itpaints the fluid
+everywhere to mark
+its territory."
+236,tyrogue,7,210,42,121,1,"It is always
+bursting with en­
+ergy. To make it­self stronger, it
+keeps on fighting
+even if it loses."
+237,hitmontop,14,480,159,124,1,"If you become
+enchanted by its
+smooth, elegant,dance-like kicks,
+you may get
+drilled hard."
+238,smoochum,4,60,61,151,1,"Its lips are the
+most sensitive
+parts on its body.It always uses its
+lips first to
+examine things."
+239,elekid,6,235,72,153,1,"It rotates its
+arms to generate
+electricity, butit tires easily,
+so it charges up
+only a little bit."
+240,magby,7,214,73,156,1,"Each and every
+time it inhales
+and exhales, hotembers dribble out
+of its mouth and
+nostrils."
+241,miltank,12,755,172,283,1,"Its milk is packed
+with nutrition,
+making it theultimate beverage
+for the sick or
+weary."
+242,blissey,15,468,608,134,1,"Anyone who takes
+even one bite of
+BLISSEY's egg be­comes unfailingly
+caring and pleas­
+ant to everyone."
+243,raikou,19,1780,261,284,1,"The rain clouds it
+carries let it
+fire thunderboltsat will. They say
+that it descended
+with lightning."
+244,entei,21,1980,261,285,1,"Volcanoes erupt
+when it barks. Un­
+able to restrainits extreme power,
+it races headlong
+around the land."
+245,suicune,20,1870,261,286,1,"Said to be the
+reincarnation of
+north winds, itcan instantly
+purify filthy,
+murky water."
+246,larvitar,6,720,60,287,1,"It feeds on soil.
+After it has eaten
+a large mountain,it will fall
+asleep so it can
+grow."
+247,pupitar,12,1520,144,288,1,"Its shell is as
+hard as sheet
+rock, and it isalso very strong.
+Its THRASHING can
+topple a mountain."
+248,tyranitar,20,2020,270,289,1,"Its body can't be
+harmed by any sort
+of attack, so itis very eager to
+make challenges
+against enemies."
+249,lugia,52,2160,306,291,1,"It is said that it
+quietly spends its
+time deep at thebottom of the sea
+because its powers
+are too strong."
+250,ho-oh,38,1990,306,292,1,"Legends claim this
+POKéMON flies the
+world's skies con­tinuously on its
+magnificent seven-
+colored wings."
+251,celebi,6,50,270,293,1,"This POKéMON wan­
+ders across time.
+Grass and treesflourish in the
+forests in which
+it has appeared."
+252,treecko,5,50,62,294,1,"TREECKO has small hooks on the bottom
+of its feet that enable it to scale
+vertical walls.This POKéMON attacks by slamming foes
+with its thick tail."
+253,grovyle,9,216,142,295,1,"The leaves growing out of GROVYLE’s
+body are convenient for camouflaging
+it from enemies in the forest.This POKéMON is a master at climbing
+trees in jungles."
+254,sceptile,17,522,239,296,1,"The leaves growing on SCEPTILE’s body
+are very sharp edged. This POKéMON is
+very agile - it leaps all over thebranches of trees and jumps on its foe
+from above or behind."
+255,torchic,4,25,62,297,1,"TORCHIC sticks with its TRAINER,
+following behind with unsteady
+steps.This POKéMON breathes fire of over
+1,800 degrees F, including fireballs
+that leave the foe scorched black."
+256,combusken,9,195,142,298,1,"COMBUSKEN toughens up its legs and
+thighs by running through fields and
+mountains.This POKéMON’s legs possess both speed
+and power, enabling it to dole out ten
+kicks in one second."
+257,blaziken,19,520,239,299,1,"In battle, BLAZIKEN blows out intense
+flames from its wrists and attacks foes
+courageously.The stronger the foe, the more
+intensely this POKéMON’s wrists burn."
+258,mudkip,4,76,62,301,1,"The fin on MUDKIP’s head acts as highly
+sensitive radar. Using this fin to sense
+movements of water and air, thisPOKéMON can determine what is taking
+place around it without using its eyes."
+259,marshtomp,7,280,142,302,1,"The surface of MARSHTOMP’s body is
+enveloped by a thin, sticky film that
+enables it to live on land.This POKéMON plays in mud on beaches
+when the ocean tide is low."
+260,swampert,15,819,241,303,1,"SWAMPERT is very strong. It has enough
+power to easily drag a boulder weighing
+more than a ton.This POKéMON also has powerful vision
+that lets it see even in murky water."
+261,poochyena,5,136,44,304,1,"At first sight, POOCHYENA takes a bite
+at anything that moves.
+This POKéMON chases after prey untilthe victim becomes exhausted.
+However, it may turn tail if the prey
+strikes back."
+262,mightyena,10,370,147,305,1,"MIGHTYENA gives obvious signals when
+it is preparing to attack. It starts to
+growl deeply and then flattens its body.This POKéMON will bite savagely with its
+sharply pointed fangs."
+263,zigzagoon,4,175,48,306,1,"ZIGZAGOON restlessly wanders
+everywhere at all times. This POKéMON
+does so because it is very curious.It becomes interested in anything
+that it happens to see."
+264,linoone,5,325,147,307,1,"LINOONE always runs full speed and only
+in straight lines. If facing an obstacle,
+it makes a right-angle turn to evade it.This POKéMON is very challenged by
+gently curving roads."
+265,wurmple,3,36,39,308,1,"Using the spikes on its rear end,
+WURMPLE peels the bark off trees and
+feeds on the sap that oozes out.This POKéMON’s feet are tipped with
+suction pads that allow it to cling to
+glass without slipping."
+266,silcoon,6,100,72,309,1,"SILCOON tethers itself to a tree branch
+using silk to keep from falling. There,
+this POKéMON hangs quietly while itawaits evolution.
+It peers out of the silk cocoon through
+a small hole."
+267,beautifly,10,284,173,310,1,"BEAUTIFLY’s favorite food is the sweet
+pollen of flowers. If you want to see
+this POKéMON, just leave a pottedflower by an open window. BEAUTIFLY
+is sure to come looking for pollen."
+268,cascoon,7,115,41,311,1,"CASCOON makes its protective cocoon
+by wrapping its body entirely with a
+fine silk from its mouth. Once the silkgoes around its body, it hardens.
+This POKéMON prepares for its evolution
+inside the cocoon."
+269,dustox,12,316,135,312,1,"DUSTOX is instinctively drawn to light.
+Swarms of this POKéMON are attracted
+by the bright lights of cities, wherethey wreak havoc by stripping the
+leaves off roadside trees for food."
+270,lotad,5,26,44,313,1,"LOTAD live in ponds and lakes, where
+they float on the surface.
+It grows weak if its broad leaf dies.On rare occasions, this POKéMON travels
+on land in search of clean water."
+271,lombre,12,325,119,314,1,"LOMBRE is nocturnal - it will get active
+after dusk. It is also a mischief-maker.
+When this POKéMON spots anglers,it tugs on their fishing lines from
+beneath the surface and enjoys their
+consternation."
+272,ludicolo,15,550,216,315,1,"LUDICOLO begins dancing as soon as
+it hears cheerful, festive music.
+This POKéMON is said to appear when ithears the singing of children on hiking
+outings."
+273,seedot,5,40,44,316,1,"SEEDOT attaches itself to a tree
+branch using the top of its head.
+It sucks moisture from the tree whilehanging off the branch.
+The more water it drinks, the glossier
+this POKéMON’s body becomes."
+274,nuzleaf,10,280,119,317,1,"NUZLEAF live in densely overgrown
+forests. They occasionally venture out
+of the forest to startle people.This POKéMON dislikes having its long
+nose pinched."
+275,shiftry,13,596,216,318,1,"SHIFTRY is a mysterious POKéMON that
+is said to live atop towering trees
+dating back over a thousand years.It creates terrific windstorms with
+the fans it holds."
+276,taillow,3,23,54,319,1,"TAILLOW courageously stands its
+ground against foes, however strong
+they may be.This gutsy POKéMON will remain defiant
+even after a loss. On the other hand,
+it cries loudly if it becomes hungry."
+277,swellow,7,198,151,320,1,"SWELLOW flies high above our heads,
+making graceful arcs in the sky.
+This POKéMON dives at a steep angle assoon as it spots its prey. The hapless
+prey is tightly grasped by SWELLOW’s
+clawed feet, preventing escape."
+278,wingull,6,95,54,321,1,"WINGULL has the habit of carrying prey
+and valuables in its beak and hiding
+them in all sorts of locations.This POKéMON rides the winds and flies
+as if it were skating across the sky."
+279,pelipper,12,280,151,322,1,"PELIPPER is a flying transporter that
+carries small POKéMON and eggs inside
+its massive bill.This POKéMON builds its nest on steep
+cliffs facing the sea."
+280,ralts,4,66,40,323,1,"RALTS senses the emotions of
+people using the horns on its head.
+This POKéMON rarely appears beforepeople. But when it does, it draws
+closer if it senses that the person has
+a positive disposition."
+281,kirlia,8,202,97,324,1,"It is said that a KIRLIA that is
+exposed to the positive emotions of
+its TRAINER grows beautiful.This POKéMON controls psychokinetic
+powers with its highly developed brain."
+282,gardevoir,16,484,233,325,1,"GARDEVOIR has the ability to read the
+future. If it senses impending danger
+to its TRAINER, this POKéMON is said tounleash its psychokinetic energy at
+full power."
+283,surskit,5,17,54,328,1,"From the tips of its feet, SURSKIT
+secretes an oil that enables it to walk
+on water as if it were skating.This POKéMON feeds on microscopic
+organisms in ponds and lakes."
+284,masquerain,8,36,145,329,1,"MASQUERAIN intimidates enemies with
+the eyelike patterns on its antennas.
+This POKéMON flaps its four wings tofreely fly in any direction - even
+sideways and backwards - as if it were
+a helicopter."
+285,shroomish,4,45,59,330,1,"SHROOMISH live in damp soil in the dark
+depths of forests. They are often
+found keeping still under fallen leaves.This POKéMON feeds on compost that
+is made up of fallen, rotted leaves."
+286,breloom,12,392,161,331,1,"BRELOOM closes in on its foe with light
+and sprightly footwork, then throws
+punches with its stretchy arms.This POKéMON’s fighting technique puts
+boxers to shame."
+287,slakoth,8,240,56,332,1,"SLAKOTH lolls around for over twenty
+hours every day. Because it moves so
+little, it does not need much food.This POKéMON’s sole daily meal consists
+of just three leaves."
+288,vigoroth,14,465,154,333,1,"VIGOROTH is always itching and agitated
+to go on a wild rampage. It simply can’t
+tolerate sitting still for even a minute.This POKéMON’s stress level rises if it
+can’t be moving constantly."
+289,slaking,20,1305,252,334,1,"SLAKING spends all day lying down and
+lolling about.
+It eats grass growing within its reach.If it eats all the grass it can reach,
+this POKéMON reluctantly moves to
+another spot."
+290,nincada,5,55,53,335,1,"NINCADA lives underground for many
+years in complete darkness.
+This POKéMON absorbs nutrients fromthe roots of trees. It stays motionless
+as it waits for evolution."
+291,ninjask,8,120,160,336,1,"NINJASK moves around at such a high
+speed that it cannot be seen, even
+while its crying can be clearly heard.For that reason, this POKéMON was long
+believed to be invisible."
+292,shedinja,8,12,83,337,1,"SHEDINJA’s hard body doesn’t move -
+not even a twitch. In fact, its body
+appears to be merely a hollow shell.It is believed that this POKéMON will
+steal the spirit of anyone peering into
+its hollow body from its back."
+293,whismur,6,163,48,338,1,"Normally, WHISMUR’s voice is very quiet -
+it is barely audible even if one is
+paying close attention.However, if this POKéMON senses danger,
+it starts crying at an earsplitting
+volume."
+294,loudred,10,405,126,339,1,"LOUDRED’s bellowing can completely
+decimate a wood-frame house. It uses
+its voice to punish its foes.This POKéMON’s round ears serve as
+loudspeakers."
+295,exploud,15,840,216,340,1,"EXPLOUD triggers earthquakes with the
+tremors it creates by bellowing. If this
+POKéMON violently inhales from theports on its body, it’s a sign that it is
+preparing to let loose a huge bellow."
+296,makuhita,10,864,47,341,1,"MAKUHITA is tenacious - it will keep
+getting up and attacking its foe
+however many times it is knocked down.Every time it gets back up, this
+POKéMON stores more energy in its body
+for evolving."
+297,hariyama,23,2538,166,342,1,"HARIYAMA practices its straight-arm
+slaps in any number of locations.
+One hit of this POKéMON’s powerful,openhanded, straight-arm punches
+could snap a telephone pole in two."
+298,azurill,2,20,38,225,1,"AZURILL spins its tail as if it were a
+lasso, then hurls it far. The momentum
+of the throw sends its body flying, too.Using this unique action, one of these
+POKéMON managed to hurl itself a record
+33 feet."
+299,nosepass,10,970,75,343,1,"NOSEPASS’s magnetic nose is always
+pointed to the north. If two of these
+POKéMON meet, they cannot turntheir faces to each other when they
+are close because their magnetic noses
+repel one another."
+300,skitty,6,110,52,345,1,"SKITTY has the habit of becoming
+fascinated by moving objects and
+chasing them around.This POKéMON is known to chase after
+its own tail and become dizzy."
+301,delcatty,11,326,133,346,1,"DELCATTY prefers to live an unfettered
+existence in which it can do as it
+pleases at its own pace.Because this POKéMON eats and sleeps
+whenever it decides, its daily routines
+are completely random."
+302,sableye,5,110,133,347,1,"SABLEYE lead quiet lives deep inside
+caverns. They are feared, however,
+because these POKéMON are thought tosteal the spirits of people when their
+eyes burn with a sinister glow in the
+darkness."
+303,mawile,6,115,133,348,1,"MAWHILE’s huge jaws are actually steel
+horns that have been transformed.
+Its docile-looking face serves to lullits foe into letting down its guard.
+When the foe least expects it, MAWHILE
+chomps it with its gaping jaws."
+304,aron,4,600,66,350,1,"This POKéMON has a body of steel.
+To make its body, ARON feeds on
+iron ore that it digs from mountains.Occasionally, it causes major trouble by
+eating bridges and rails."
+305,lairon,9,1200,151,351,1,"LAIRON tempers its steel body by
+drinking highly nutritious mineral
+springwater until it is bloated.This POKéMON makes its nest close to
+springs of delicious water."
+306,aggron,21,3600,239,352,1,"AGGRON claims an entire mountain as its
+own territory. It mercilessly beats up
+anything that violates its environment.This POKéMON vigilantly patrols its
+territory at all times."
+307,meditite,6,112,56,354,1,"MEDITITE undertakes rigorous mental
+training deep in the mountains.
+However, whenever it meditates, thisPOKéMON always loses its concentration
+and focus. As a result, its training
+never ends."
+308,medicham,13,315,144,355,1,"It is said that through meditation,
+MEDICHAM heightens energy inside
+its body and sharpens its sixth sense.This POKéMON hides its presence by
+merging itself with fields and
+mountains."
+309,electrike,6,152,59,357,1,"ELECTRIKE stores electricity in its
+long body hair. This POKéMON stimulates
+its leg muscles with electric charges.These jolts of power give its legs
+explosive acceleration performance."
+310,manectric,15,402,166,358,1,"MANECTRIC is constantly discharging
+electricity from its mane. The sparks
+sometimes ignite forest fires.When it enters a battle, this POKéMON
+creates thunderclouds."
+311,plusle,4,42,142,360,1,"PLUSLE always acts as a cheerleader
+for its partners. Whenever a teammate
+puts out a good effort in battle, thisPOKéMON shorts out its body to create
+the crackling noises of sparks to show
+its joy."
+312,minun,4,42,142,361,1,"MINUN is more concerned about cheering
+on its partners than its own safety.
+It shorts out the electricity in itsbody to create brilliant showers of
+sparks to cheer on its teammates."
+313,volbeat,7,177,140,362,1,"With the arrival of night, VOLBEAT emits
+light from its tail. It communicates with
+others by adjusting the intensity andflashing of its light.
+This POKéMON is attracted by the sweet
+aroma of ILLUMISE."
+314,illumise,6,177,140,363,1,"ILLUMISE attracts a swarm of VOLBEAT
+using a sweet fragrance. Once the
+VOLBEAT have gathered, this POKéMONleads the lit-up swarm in drawing
+geometric designs on the canvas of
+the night sky."
+315,roselia,3,20,140,365,1,"ROSELIA shoots sharp thorns as
+projectiles at any opponent that tries
+to steal the flowers on its arms.The aroma of this POKéMON brings
+serenity to living things."
+316,gulpin,4,103,60,367,1,"Virtually all of GULPIN’s body is its
+stomach. As a result, it can swallow
+something its own size.This POKéMON’s stomach contains a
+special fluid that digests anything."
+317,swalot,17,800,163,368,1,"When SWALOT spots prey, it spurts out
+a hideously toxic fluid from its pores
+and sprays the target.Once the prey has weakened, this
+POKéMON gulps it down whole with its
+cavernous mouth."
+318,carvanha,8,208,61,369,1,"CARVANHA’s strongly developed jaws
+and its sharply pointed fangs pack the
+destructive power to rip out boat hulls.Many boats have been attacked and
+sunk by this POKéMON."
+319,sharpedo,18,888,161,370,1,"Nicknamed “the bully of the sea,”
+SHARPEDO is widely feared.
+Its cruel fangs grow back immediatelyif they snap off.
+Just one of these POKéMON can
+thoroughly tear apart a supertanker."
+320,wailmer,20,1300,80,371,1,"WAILMER’s nostrils are located above
+its eyes. This playful POKéMON loves
+to startle people by forcefully snortingout seawater it stores inside its body
+out of its nostrils."
+321,wailord,145,3980,175,372,1,"WAILORD is the largest of all identified
+POKéMON up to now.
+This giant POKéMON swims languorouslyin the vast open sea, eating massive
+amounts of food at once with its
+enormous mouth."
+322,numel,7,240,61,373,1,"NUMEL is extremely dull witted - it
+doesn’t notice being hit. However, it
+can’t stand hunger for even a second.This POKéMON’s body is a seething
+cauldron of boiling magma."
+323,camerupt,19,2200,161,374,1,"CAMERUPT has a volcano inside its body.
+Magma of 18,000 degrees F courses
+through its body.Occasionally, the humps on this
+POKéMON’s back erupt, spewing the
+superheated magma."
+324,torkoal,5,804,165,375,1,"TORKOAL digs through mountains in
+search of coal. If it finds some, it fills
+hollow spaces on its shell with the coaland burns it.
+If it is attacked, this POKéMON spouts
+thick black smoke to beat a retreat."
+325,spoink,7,306,66,376,1,"SPOINK bounces around on its tail.
+The shock of its bouncing makes its
+heart pump. As a result, this POKéMONcannot afford to stop bouncing - if it
+stops, its heart will stop."
+326,grumpig,9,715,165,377,1,"GRUMPIG uses the black pearls on its
+body to amplify its psychic power waves
+for gaining total control over its foe.When this POKéMON uses its special
+power, its snorting breath grows
+labored."
+327,spinda,11,50,126,378,1,"All the SPINDA that exist in the
+world are said to have utterly unique
+spot patterns.The shaky, tottering steps of this
+POKéMON give it the appearance of
+dancing."
+328,trapinch,7,150,58,379,1,"TRAPINCH’s nest is a sloped, bowl-like
+pit dug in sand. This POKéMON patiently
+waits for prey to tumble down the pit.Its giant jaws have enough strength
+to crush even boulders."
+329,vibrava,11,153,119,380,1,"To make prey faint, VIBRAVA generates
+ultrasonic waves by vigorously making
+its two wings vibrate.This POKéMON’s ultrasonic waves are so
+powerful, they can bring on headaches
+in people."
+330,flygon,20,820,234,381,1,"FLYGON is nicknamed “the elemental
+spirit of the desert.” Because its
+flapping wings whip up a cloud of sand,this POKéMON is always enveloped in a
+sandstorm while flying."
+331,cacnea,4,513,67,382,1,"CACNEA lives in arid locations such
+as deserts. It releases a strong aroma
+from its flower to attract prey.When prey comes near, this POKéMON
+shoots sharp thorns from its body to
+bring the victim down."
+332,cacturne,13,774,166,383,1,"During the daytime, CACTURNE remains
+unmoving so that it does not lose any
+moisture to the harsh desert sun.This POKéMON becomes active at night
+when the temperature drops."
+333,swablu,4,12,62,384,1,"SWABLU has light and fluffy wings that
+are like cottony clouds. This POKéMON
+is not frightened of people.It lands on the heads of people and
+sits there like a cotton-fluff hat."
+334,altaria,11,206,172,385,1,"ALTARIA dances and wheels through the
+sky among billowing, cotton-like clouds.
+By singing melodies in its crystal-clearvoice, this POKéMON makes its listeners
+experience dreamy wonderment."
+335,zangoose,13,403,160,386,1,"Memories of battling its arch-rival
+SEVIPER are etched into every cell of
+ZANGOOSE’s body.This POKéMON adroitly dodges attacks
+with incredible agility."
+336,seviper,27,525,160,387,1,"SEVIPER shares a generations-long
+feud with ZANGOOSE. The scars on its
+body are evidence of vicious battles.This POKéMON attacks using its sword-
+edged tail."
+337,lunatone,10,1680,154,388,1,"LUNATONE was discovered at a location
+where a meteorite fell. As a result, some
+people theorize that this POKéMONcame from space. However, no one has
+been able to prove this theory so far."
+338,solrock,12,1540,154,389,1,"SOLROCK is a new species of POKéMON
+that is said to have fallen from space.
+It floats in air and moves silently.In battle, this POKéMON releases
+intensely bright light."
+339,barboach,4,19,58,390,1,"BARBOACH’s sensitive whiskers serve
+as a superb radar system.
+This POKéMON hides in mud, leaving onlyits two whiskers exposed while it waits
+for prey to come along."
+340,whiscash,9,236,164,391,1,"WHISCASH is extremely territorial.
+Just one of these POKéMON will claim a
+large pond as its exclusive territory.If a foe approaches it, it thrashes
+about and triggers a massive
+earthquake."
+341,corphish,6,115,62,392,1,"CORPHISH were originally foreign
+POKéMON that were imported as pets.
+They eventually turned up in the wild.This POKéMON is very hardy and has
+greatly increased its population."
+342,crawdaunt,11,328,164,393,1,"CRAWDAUNT has an extremely violent
+nature that compels it to challenge
+other living things to battle.Other life-forms refuse to live in
+ponds inhabited by this POKéMON,
+making them desolate places."
+343,baltoy,5,215,60,394,1,"BALTOY moves while spinning around on
+its one foot. Primitive wall paintings
+depicting this POKéMON living amongpeople were discovered in some ancient
+ruins."
+344,claydol,15,1080,175,395,1,"CLAYDOL are said to be dolls of mud made
+by primitive humans and brought to life
+by exposure to a mysterious ray.This POKéMON moves about while
+levitating."
+345,lileep,10,238,71,396,1,"LILEEP became extinct approximately
+a hundred million years ago.
+This ancient POKéMON attaches itselfto a rock on the seafloor and catches
+approaching prey using tentacles
+shaped like flower petals."
+346,cradily,15,604,173,397,1,"CRADILY roams around the ocean floor
+in search of food. This POKéMON freely
+extends its tree trunk-like neck andcaptures unwary prey using its eight
+tentacles."
+347,anorith,7,125,71,398,1,"ANORITH was regenerated from a
+prehistoric fossil. This primitive
+POKéMON once lived in warm seas.It grips its prey firmly between its
+two large claws."
+348,armaldo,15,682,173,399,1,"ARMALDO’s tough armor makes all attacks
+bounce off. This POKéMON’s two
+enormous claws can be freely extendedor contracted. They have the power to
+punch right through a steel slab."
+349,feebas,6,74,40,400,1,"FEEBAS’s fins are ragged and
+tattered from the start of its life.
+Because of its shoddy appearance, thisPOKéMON is largely ignored.
+It is capable of living in both the sea
+and in rivers."
+350,milotic,62,1620,189,401,1,"MILOTIC is said to be the most
+beautiful of all the POKéMON.
+It has the power to becalm suchemotions as anger and hostility to quell
+bitter feuding."
+351,castform,3,8,147,402,1,"CASTFORM’s appearance changes with
+the weather.
+This POKéMON gained the ability to usethe vast power of nature to protect
+its tiny body."
+352,kecleon,10,220,154,406,1,"KECLEON is capable of changing its body
+colors at will to blend in with its
+surroundings.There is one exception - this POKéMON
+can’t change the zigzag pattern on its
+belly."
+353,shuppet,6,23,59,407,1,"SHUPPET is attracted by feelings
+of jealousy and vindictiveness.
+If someone develops strong feelings ofvengeance, this POKéMON will appear
+in a swarm and line up beneath the eaves
+of that person’s home."
+354,banette,11,125,159,408,1,"BANETTE generates energy for laying
+strong curses by sticking pins into its
+own body.This POKéMON was originally a pitiful
+plush doll that was thrown away."
+355,duskull,8,150,59,410,1,"DUSKULL can pass through any wall no
+matter how thick it may be.
+Once this POKéMON chooses a target,it will doggedly pursue the intended
+victim until the break of dawn."
+356,dusclops,16,306,159,411,1,"DUSCLOPS’s body is completely hollow -
+there is nothing at all inside.
+It is said that its body is like a blackhole. This POKéMON will absorb anything
+into its body, but nothing will ever come
+back out."
+357,tropius,20,1000,161,413,1,"The bunches of fruit around TROPIUS’s
+neck are very popular with children.
+This POKéMON loves fruit, and eats itcontinuously. Apparently, its love for
+fruit resulted in its own outgrowth
+of fruit."
+358,chimecho,6,10,149,415,1,"CHIMECHO makes its cries echo
+inside its hollow body. When this
+POKéMON becomes enraged, its criesresult in ultrasonic waves that have
+the power to knock foes flying."
+359,absol,12,470,163,416,1,"Every time ABSOL appears before people,
+it is followed by a disaster such as an
+earthquake or a tidal wave.As a result, it came to be known as the
+disaster POKéMON."
+360,wynaut,6,140,52,246,1,"WYNAUT can always be seen with a big,
+happy smile on its face. Look at its tail
+to determine if it is angry.When angered, this POKéMON will be
+slapping the ground with its tail."
+361,snorunt,7,168,60,418,1,"SNORUNT live in regions with heavy
+snowfall. In seasons without snow, such
+as spring and summer, this POKéMONsteals away to live quietly among
+stalactites and stalagmites deep in
+caverns."
+362,glalie,15,2565,168,419,1,"GLALIE has a body made of rock, which it
+hardens with an armor of ice.
+This POKéMON has the ability to freezemoisture in the atmosphere into any
+shape it desires."
+363,spheal,8,395,58,421,1,"SPHEAL is much faster rolling than
+walking to get around. When groups of
+this POKéMON eat, they all clap at onceto show their pleasure. Because of this,
+their mealtimes are noisy."
+364,sealeo,11,876,144,422,1,"SEALEO has the habit of always juggling
+on the tip of its nose anything it sees
+for the first time.This POKéMON occasionally entertains
+itself by balancing and rolling a SPHEAL
+on its nose."
+365,walrein,14,1506,239,423,1,"WALREIN’s two massively developed
+tusks can totally shatter blocks of
+ice weighing ten tons with one blow.This POKéMON’s thick coat of blubber
+insulates it from subzero temperatures."
+366,clamperl,4,525,69,424,1,"CLAMPERL’s sturdy shell is not only good
+for protection - it is also used for
+clamping and catching prey.A fully grown CLAMPERL’s shell will be
+scored with nicks and scratches all
+over."
+367,huntail,17,270,170,425,1,"HUNTAIL’s presence went unnoticed by
+people for a long time because it lives
+at extreme depths in the sea.This POKéMON’s eyes can see clearly
+even in the murky dark depths of the
+ocean."
+368,gorebyss,18,226,170,426,1,"GOREBYSS lives in the southern seas
+at extreme depths. Its body is built to
+withstand the enormous pressure ofwater at incredible depths. Because of
+this, this POKéMON’s body is unharmed
+by ordinary attacks."
+369,relicanth,10,234,170,427,1,"RELICANTH is a POKéMON species that
+existed for a hundred million years
+without ever changing its form.This ancient POKéMON feeds on
+microscopic organisms with its
+toothless mouth."
+370,luvdisc,6,87,116,428,1,"LUVDISC live in shallow seas in the
+tropics. This heart-shaped POKéMON
+earned its name by swimming afterloving couples it spotted in the
+ocean’s waves."
+371,bagon,6,421,60,429,1,"BAGON has a dream of one day soaring
+in the sky. In doomed efforts to fly,
+this POKéMON hurls itself off cliffs.As a result of its dives, its head has
+grown tough and as hard as tempered
+steel."
+372,shelgon,11,1105,147,430,1,"Inside SHELGON’s armor-like shell, cells
+are in the midst of transformation
+to create an entirely new body.This POKéMON’s shell is extremely heavy,
+making its movements sluggish."
+373,salamence,15,1026,270,431,1,"SALAMENCE came about as a result of a
+strong, long-held dream of growing
+wings. It is said that this powerfuldesire triggered a sudden mutation in
+this POKéMON’s cells, causing it to
+sprout its magnificent wings."
+374,beldum,6,952,60,432,1,"Instead of blood, a powerful magnetic
+force courses throughout BELDUM’s
+body. This POKéMON communicates withothers by sending controlled pulses of
+magnetism."
+375,metang,12,2025,147,433,1,"When two BELDUM fuse together, METANG
+is formed. The brains of the BELDUM are
+joined by a magnetic nervous system.By linking its brains magnetically,
+this POKéMON generates strong
+psychokinetic power."
+376,metagross,16,5500,270,434,1,"METAGROSS has four brains in total.
+Combined, the four brains can breeze
+through difficult calculations fasterthan a supercomputer.
+This POKéMON can float in the air by
+tucking in its four legs."
+377,regirock,17,2300,261,435,1,"REGIROCK was sealed away by people
+long ago. If this POKéMON’s body is
+damaged in battle, it is said to seekout suitable rocks on its own to repair
+itself."
+378,regice,18,1750,261,436,1,"REGICE’s body was made during an ice
+age. The deep-frozen body can’t be
+melted, even by fire.This POKéMON controls frigid air of
+minus 328 degrees F."
+379,registeel,19,2050,261,437,1,"REGISTEEL has a body that is harder
+than any kind of metal.
+Its body is apparently hollow.No one has any idea what this POKéMON
+eats."
+380,latias,14,400,270,438,1,"LATIAS is highly sensitive to the
+emotions of people. If it senses any
+hostility, this POKéMON ruffles thefeathers all over its body and cries
+shrilly to intimidate the foe."
+381,latios,20,600,270,439,1,"LATIOS has the ability to make its foe
+see an image of what it has seen or
+imagines in its head.This POKéMON is intelligent and
+understands human speech."
+382,kyogre,45,3520,302,440,1,"KYOGRE has the power to create massive
+rain clouds that cover the entire sky
+and bring about torrential downpours.This POKéMON saved people who were
+suffering from droughts."
+383,groudon,35,9500,302,441,1,"GROUDON has long been described in
+mythology as the POKéMON that raised
+lands and expanded continents.This POKéMON took to sleep after a
+cataclysmic battle with KYOGRE."
+384,rayquaza,70,2065,306,442,1,"RAYQUAZA lived for hundreds of millions
+of years in the earth’s ozone layer,
+never descending to the ground.This POKéMON appears to feed on water
+and particles in the atmosphere."
+385,jirachi,3,11,270,443,1,"A legend states that JIRACHI will make
+true any wish that is written on notes
+attached to its head when it awakens.If this POKéMON senses danger, it will
+fight without awakening."
+386,deoxys-normal,17,608,270,444,1,"The DNA of a space virus underwent a
+sudden mutation upon exposure to a
+laser beam and resulted in DEOXYS.The crystalline organ on this POKéMON’s
+chest appears to be its brain."
+387,turtwig,4,102,64,448,1,"Made from soil, the shell on its
+back hardens when it drinks water.
+It lives along lakes."
+388,grotle,11,970,142,449,1,"It lives along water in forests. In
+the daytime, it leaves the forest
+to sunbathe its treed shell."
+389,torterra,22,3100,236,450,1,"Small Pokémon occasionally gather
+on its unmoving back to begin
+building their nests."
+390,chimchar,5,62,62,451,1,"It agilely scales sheer cliffs to
+live atop craggy mountains. Its
+fire is put out when it sleeps."
+391,monferno,9,220,142,452,1,"To intimidate attackers, it
+stretches the fire on its tail
+to make itself appear bigger."
+392,infernape,12,550,240,453,1,"It uses a special kind of martial
+arts involving all its limbs.
+Its fire never goes out."
+393,piplup,4,52,63,454,1,"Because it is very proud, it hates
+accepting food from people. Its
+thick down guards it from cold."
+394,prinplup,8,230,142,455,1,"It lives alone, away from others.
+Apparently, every one of them
+believes it is the most important."
+395,empoleon,17,845,239,456,1,"The three horns that extend from
+its beak attest to its power. The
+leader has the biggest horns."
+396,starly,3,20,49,457,1,"They flock in great numbers.
+Though small, they flap their
+wings with great power."
+397,staravia,6,155,119,458,1,"It flies around forests and fields
+in search of bug Pokémon.
+It stays within a huge flock."
+398,staraptor,12,249,214,459,1,"It has a savage nature. It will
+courageously challenge foes that
+are much larger."
+399,bidoof,5,200,50,460,1,"With nerves of steel, nothing can
+perturb it. It is more agile and
+active than it appears."
+400,bibarel,10,315,144,461,1,"It makes its nest by damming
+streams with bark and mud. It is
+known as an industrious worker."
+401,kricketot,3,22,39,462,1,"It shakes its head back to front,
+causing its antennae to hit each
+other and sound like a xylophone."
+402,kricketune,10,255,134,463,1,"It crosses its knifelike arms in
+front of its chest when it cries.
+It can compose melodies ad lib."
+403,shinx,5,95,53,464,1,"All of its fur dazzles if danger is
+sensed. It flees while the foe is
+momentarily blinded."
+404,luxio,9,305,127,465,1,"Its claws loose electricity with
+enough amperage to cause fainting.
+They live in small groups."
+405,luxray,14,420,235,466,1,"It has eyes that can see through
+anything. It spots and captures
+prey hiding behind objects."
+406,budew,2,12,56,364,1,"Over the winter, it closes its bud
+and endures the cold. In spring,
+the bud opens and releases pollen."
+407,roserade,9,145,227,366,1,"It attracts prey with a sweet
+aroma, then downs it with
+thorny whips hidden in its arms."
+408,cranidos,9,315,70,467,1,"It lived in jungles around 100
+million years ago. Its skull is as
+hard as iron."
+409,rampardos,16,1025,173,468,1,"Its powerful head butt has enough
+power to shatter even the most
+durable things upon impact."
+410,shieldon,5,570,70,469,1,"A Pokémon that lived in jungles
+around 100 million years ago. Its
+facial hide is extremely hard."
+411,bastiodon,13,1495,173,470,1,"Any frontal attack is repulsed.
+It is a docile Pokémon that
+feeds on grass and berries."
+412,burmy,2,34,45,471,1,"To shelter itself from cold, wintry
+winds, it covers itself with a cloak
+made of twigs and leaves."
+413,wormadam-plant,5,65,148,472,1,"When BURMY evolved, its cloak
+became a part of this Pokémon’s
+body. The cloak is never shed."
+414,mothim,9,233,148,475,1,"It loves the honey of flowers
+and steals honey collected by
+COMBEE."
+415,combee,3,55,49,476,1,"A Pokémon formed by three others.
+It busily carries sweet floral
+honey to VESPIQUEN."
+416,vespiquen,12,385,166,477,1,"Its abdomen is a honeycomb for
+grubs. It raises its grubs on
+honey collected by COMBEE."
+417,pachirisu,4,39,142,478,1,"It makes fur balls that crackle
+with static electricity. It stores
+them with berries in tree holes."
+418,buizel,7,295,66,479,1,"It has a flotation sac that is
+like an inflatable collar. It floats
+on water with its head out."
+419,floatzel,11,335,173,480,1,"It floats using its well-developed
+flotation sac. It assists in the
+rescues of drowning people."
+420,cherubi,4,33,55,481,1,"The small ball holds the nutrients
+needed for evolution. Apparently,
+it is very sweet and tasty."
+421,cherrim,5,93,158,482,1,"It blooms during times of strong
+sunlight. It tries to make up for
+everything it endured as a bud."
+422,shellos,3,63,65,483,1,"Its colors and shapes differ from
+region to region. In the Sinnoh
+region, two types are confirmed."
+423,gastrodon,9,299,166,484,1,"It has a pliable body without any
+bones. If any part of its body is
+torn off, it grows right back."
+424,ambipom,12,203,169,234,1,"To eat, it deftly shucks nuts
+with its two tails. It rarely uses
+its arms now."
+425,drifloon,4,12,70,485,1,"A Pokémon formed by the spirits
+of people and Pokémon. It loves
+damp, humid seasons."
+426,drifblim,12,150,174,486,1,"It’s drowzy in daytime, but flies
+off in the evening in big groups.
+No one knows where they go."
+427,buneary,4,55,70,487,1,"It slams foes by sharply uncoiling
+its rolled ears. It stings enough
+to make a grown-up cry in pain."
+428,lopunny,12,333,168,488,1,"An extremely cautious Pokémon.
+It cloaks its body with its fluffy
+ear fur when it senses danger."
+429,mismagius,9,44,173,244,1,"Its cries sound like incantations.
+Those hearing it are tormented
+by headaches and hallucinations."
+430,honchkrow,9,273,177,242,1,"Becoming active at night, it is
+known to swarm with numerous
+MURKROW in tow."
+431,glameow,5,39,62,489,1,"It claws if displeased and purrs
+when affectionate. Its fickleness
+is very popular among some."
+432,purugly,10,438,158,490,1,"It is a brazen brute that barges
+its way into another Pokémon’s
+nest and claims it as its own."
+433,chingling,2,6,57,414,1,"It emits cries by agitating an orb
+at the back of its throat.
+It moves with flouncing hops."
+434,stunky,4,192,66,491,1,"It protects itself by spraying a
+noxious fluid from its rear. The
+stench lingers for 24 hours."
+435,skuntank,10,380,168,492,1,"It sprays a vile-smelling fluid
+from the tip of its tail to attack.
+Its range is over 160 feet."
+436,bronzor,5,605,60,493,1,"Implements shaped like it were
+discovered in ancient tombs. It is
+unknown if they are related."
+437,bronzong,13,1870,175,494,1,"One caused a news sensation when
+it was dug up at a construction
+site after a 2,000-year sleep."
+438,bonsly,5,150,58,228,1,"It looks as if it is always crying.
+It is actually adjusting its body’s
+fluid levels by eliminating excess."
+439,mime-jr,6,130,62,146,1,"It habitually mimics foes. Once
+mimicked, the foe cannot take its
+eyes off this Pokémon."
+440,happiny,6,244,110,132,1,"It loves round white things.
+It carries an egg-shaped rock in
+imitation of CHANSEY."
+441,chatot,5,19,144,495,1,"It can learn and speak human
+words. If they gather, they all
+learn the same saying."
+442,spiritomb,10,1080,170,496,1,"A Pokémon that was formed by 108
+spirits. It is bound to a fissure
+in an odd keystone."
+443,gible,7,205,60,497,1,"It nests in small, horizontal holes
+in cave walls. It pounces to catch
+prey that stray too close."
+444,gabite,14,560,144,498,1,"There is a long-held belief that
+medicine made from its scales will
+heal even incurable illnesses."
+445,garchomp,19,950,270,499,1,"When it folds up its body and
+extends its wings, it looks like a
+jet plane. It flies at sonic speed."
+446,munchlax,6,1050,78,185,1,"It wolfs down its weight in food
+once a day, swallowing food whole
+with almost no chewing."
+447,riolu,7,202,57,501,1,"The aura that emanates from its
+body intensifies to alert others
+if it is afraid or sad."
+448,lucario,12,540,184,502,1,"It has the ability to sense the
+auras of all things.
+It understands human speech."
+449,hippopotas,8,495,66,504,1,"It lives in arid places. Instead
+of perspiration, it expels grainy
+sand from its body."
+450,hippowdon,20,3000,184,505,1,"It blasts internally stored sand
+from ports on its body to create
+a towering twister for attack."
+451,skorupi,8,120,66,506,1,"It grips prey with its tail claws
+and injects poison. It tenaciously
+hangs on until the poison takes."
+452,drapion,13,615,175,507,1,"It has the power in its clawed
+arms to make scrap of a car. The
+tips of its claws release poison."
+453,croagunk,7,230,60,508,1,"Its cheeks hold poison sacs.
+It tries to catch foes off guard
+to jab them with toxic fingers."
+454,toxicroak,13,444,172,509,1,"Its knuckle claws secrete a toxin
+so vile that even a scratch could
+prove fatal."
+455,carnivine,14,270,159,510,1,"It attracts prey with its sweet-
+smelling saliva, then chomps down.
+It takes a whole day to eat prey."
+456,finneon,4,70,66,511,1,"After long exposure to sunlight,
+the patterns on its tail fins shine
+vividly when darkness arrives."
+457,lumineon,12,240,161,512,1,"It lives on the deep-sea floor.
+It attracts prey by flashing the
+patterns on its four tail fins."
+458,mantyke,10,650,69,273,1,"A friendly Pokémon that captures
+the subtle flows of seawater using
+its two antennae."
+459,snover,10,505,67,513,1,"It lives on snowy mountains.
+Having had little contact with
+humans, it is boldly inquisitive."
+460,abomasnow,22,1355,173,514,1,"It whips up blizzards in mountains
+that are always buried in snow.
+It is the abominable snowman."
+461,weavile,11,340,179,261,1,"They live in cold regions, forming
+groups of four or five that hunt
+prey with impressive coordination."
+462,magnezone,12,1800,241,95,1,"It evolved from exposure to a
+special magnetic field.
+Three units generate magnetism."
+463,lickilicky,17,1400,180,126,1,"It wraps things with its extensible
+tongue. Getting too close to it
+will leave you soaked with drool."
+464,rhyperior,24,2828,241,131,1,"It puts rocks in holes in its palms
+and uses its muscles to shoot them.
+GEODUDE are shot at rare times."
+465,tangrowth,20,1286,187,136,1,"It ensnares prey by extending
+arms made of vines. Losing arms to
+predators does not trouble it."
+466,electivire,18,1386,243,155,1,"It pushes the tips of its two tails
+against the foe, then lets loose
+with over 20,000 volts of power."
+467,magmortar,16,680,243,158,1,"It blasts fireballs of over 3,600
+degrees F from the ends of its
+arms. It lives in volcanic craters."
+468,togekiss,15,380,245,218,1,"It will never appear where there
+is strife. Its sightings have
+become rare recently."
+469,yanmega,19,515,180,238,1,"By churning its wings, it creates
+shock waves that inflict critical
+internal injuries to foes."
+470,leafeon,10,255,184,173,1,"Just like a plant, it uses
+photosynthesis. As a result, it is
+always enveloped in clear air."
+471,glaceon,8,259,184,174,1,"As a protective technique, it can
+completely freeze its fur to make
+its hairs stand like needles."
+472,gliscor,20,425,179,253,1,"It observes prey while hanging
+inverted from branches. When the
+chance presents itself, it swoops!"
+473,mamoswine,25,2910,239,268,1,"Its impressive tusks are made of
+ice. The population thinned when it
+turned warm after the ice age."
+474,porygon-z,9,340,241,178,1,"Additional software was installed
+to make it a better Pokémon.
+It began acting oddly, however."
+475,gallade,16,520,233,327,1,"A master of courtesy and
+swordsmanship, it fights using
+extending swords on its elbows."
+476,probopass,14,3400,184,344,1,"It exudes strong magnetism from
+all over. It controls three small
+units called Mini-Noses."
+477,dusknoir,22,1066,236,412,1,"The antenna on its head captures
+radio waves from the world of spirits
+that command it to take people there."
+478,froslass,13,266,168,420,1,"It freezes foes with an icy breath
+nearly -60 degrees F. What seems
+to be its body is actually hollow."
+479,rotom,3,3,154,516,1,"Its body is composed of plasma. It
+is known to infiltrate electronic
+devices and wreak havoc."
+480,uxie,3,3,261,522,1,"Known as “The Being of Knowledge.”
+It is said that it can wipe out the
+memory of those who see its eyes."
+481,mesprit,3,3,261,523,1,"Known as “The Being of Emotion.”
+It taught humans the nobility of
+sorrow, pain, and joy."
+482,azelf,3,3,261,524,1,"Known as “The Being of Willpower.”
+It sleeps at the bottom of a lake
+to keep the world in balance."
+483,dialga,54,6830,306,525,1,"It has the power to control time.
+It appears in Sinnoh-region myths
+as an ancient deity."
+484,palkia,42,3360,306,526,1,"It has the ability to distort
+space. It is described as a deity
+in Sinnoh-region mythology."
+485,heatran,17,4300,270,527,1,"It dwells in volcanic caves. It
+digs in with its cross-shaped feet
+to crawl on ceilings and walls."
+486,regigigas,37,4200,302,528,1,"There is an enduring legend that
+states this Pokémon towed
+continents with ropes."
+487,giratina-altered,45,7500,306,529,1,"A Pokémon that is said to live in a
+world on the reverse side of ours.
+It appears in an ancient cemetery."
+488,cresselia,15,856,270,531,1,"Shiny particles are released from
+its wings like a veil. It is said
+to represent the crescent moon."
+489,phione,4,31,216,532,1,"A Pokémon that lives in warm seas.
+It inflates the flotation sac on its
+head to drift and search for food."
+490,manaphy,3,14,270,533,1,"Born on a cold seafloor, it
+will swim great distances to
+return to its birthplace."
+491,darkrai,15,505,270,534,1,"It can lull people to sleep and
+make them dream. It is active
+during nights of the new moon."
+492,shaymin-land,2,21,270,535,1,"It lives in flower patches and
+avoids detection by curling up
+to look like a flowering plant."
+493,arceus,32,3200,324,537,1,"It is described in mythology as
+the Pokémon that shaped the
+universe with its 1,000 arms."
+494,victini,4,40,270,539,1,"Un Pokémon qui amène la victoire. On dit
+que les Dresseurs qui le possèdent
+peuvent gagner n’importe quel combat."
+495,snivy,6,81,62,540,1,"Un Pokémon intelligent et très calme.
+Lorsqu’il a reçu suffisamment de
+lumière du soleil, il devient plus agile."
+496,servine,8,160,145,541,1,"Il court comme s’il glissait sur le sol.
+Il déroute l’ennemi par ses mouvements
+et l’assomme d’un coup de liane."
+497,serperior,33,630,238,542,1,"Il peut paralyser l’ennemi d’un regard.
+Il amplifie l’énergie du soleil dans
+son corps."
+498,tepig,5,99,62,543,1,"Il évite agilement les attaques ennemies
+et crache des boules de feu par le groin.
+Il aime griller des Baies pour les manger."
+499,pignite,10,555,146,544,1,"Quand le feu dans son corps s’embrase,
+sa vitesse et son agilité augmentent.
+En cas d’urgence, il crache de la fumée."
+500,emboar,16,1500,238,545,1,"Il embrase ses poings avec les flammes
+sur son menton et cogne l’ennemi avec.
+C’est un Pokémon très solidaire."
+501,oshawott,5,59,62,546,1,"Il combat avec le coupillage de son
+ventre. Il peut parer un assaut et
+immédiatement contre-attaquer."
+502,dewott,8,245,145,547,1,"L’apprentissage de sa technique de
+combat, qui utilise élégamment ses deux
+coupillages, est extrêmement rigoureux."
+503,samurott,15,946,238,548,1,"Il peut terrasser ses ennemis d’un coup
+de la lame enchâssée dans son armure,
+et les faire taire d’un seul regard."
+504,patrat,5,116,51,549,1,"Ils stockent à manger dans leurs
+bajoues et font le guet indéfiniment. Ils
+se font des signes en remuant la queue."
+505,watchog,11,270,147,550,1,"Il attaque en crachant les graines des
+Baies qu’il accumule dans ses bajoues.
+S’il voit un ennemi, il dresse la queue."
+506,lillipup,4,41,55,551,1,"Il fait vaillamment face à des ennemis
+très puissants, mais il est intelligent
+et évite les combats trop inégaux."
+507,herdier,9,147,130,552,1,"Les poils qui entourent son corps
+comme un manteau sont extrêmement
+durs et amortissent les coups."
+508,stoutland,12,610,221,553,1,"Il sauve les gens bloqués dans les
+montagnes par des tempêtes de neige.
+Ses longs poils le protègent du froid."
+509,purrloin,4,101,56,554,1,"Il vole les gens pour le plaisir, mais il
+est tellement mignon que ses victimes
+finissent toujours par lui pardonner."
+510,liepard,11,375,156,555,1,"Un Pokémon insaisissable. Son style
+et son pelage magnifique attirent de
+nombreux Dresseurs."
+511,pansage,6,105,63,556,1,"Il vit dans les forêts profondes.
+Manger la feuille qui pousse sur
+sa tête fait disparaître la fatigue."
+512,simisage,11,305,174,557,1,"Il a un tempérament violent et se
+bat avec sa queue pleine d’épines.
+La feuille sur sa tête est très amère."
+513,pansear,6,110,63,558,1,"Quand il s’énerve, la mèche sur sa
+tête chauffe à 300 °C. Il s’en sert
+pour griller des Baies et les manger."
+514,simisear,10,280,174,559,1,"Il adore les aliments sucrés. Ils lui
+servent d’énergie pour alimenter le
+feu à l’intérieur de son corps."
+515,panpour,6,135,63,560,1,"L’eau contenue dans la mèche sur sa
+tête est pleine de nutriments. Elle fait
+pousser les plantes avec vigueur."
+516,simipour,10,290,174,561,1,"Il stocke de l’eau dans les mèches de sa
+tête. Quand il est à sec, il se ravitaille
+en aspirant de l’eau par la queue."
+517,munna,6,233,58,562,1,"Quand Munna mange un rêve, celui-ci
+est aussitôt oublié par le rêveur.
+Il lévite en permanence."
+518,musharna,11,605,170,563,1,"La fumée qui sort de son front contient
+les rêves de nombreuses personnes et
+ceux de nombreux Pokémon."
+519,pidove,3,21,53,564,1,"Il suit scrupuleusement les consignes
+de son Dresseur, mais il a du mal à
+comprendre les ordres trop compliqués."
+520,tranquill,6,150,125,565,1,"Aussi éloigné qu’il puisse se trouver,
+il parvient toujours à retourner
+auprès de son Dresseur."
+521,unfezant,12,290,215,566,1,"Le mâle intimide ses ennemis
+avec ses caroncules.
+La femelle vole mieux que le mâle."
+522,blitzle,8,298,59,567,1,"Leur crinière scintille quand ils lâchent
+une décharge électrique. Ils se servent
+de ces scintillements pour communiquer."
+523,zebstrika,16,795,174,568,1,"Il réagit à la vitesse de l’éclair.
+Lorsqu’il est en plein galop, on peut
+entendre le grondement du tonnerre."
+524,roggenrola,4,180,56,569,1,"Il a une oreille hexagonale. Son
+corps, compressé dans des strates
+profondes, est dur comme de l’acier."
+525,boldore,9,1020,137,570,1,"Quand il est gonflé à bloc, ses cristaux
+orangés scintillent. Il cherche de l’eau
+souterraine dans les grottes."
+526,gigalith,17,2600,227,571,1,"Il comprime de l’énergie dans son corps,
+et ses attaques sont assez puissantes
+pour renverser des montagnes."
+527,woobat,4,21,63,572,1,"Il vit dans les forêts sombres et les
+grottes. Il émet des ultrasons par
+le nez pour se diriger."
+528,swoobat,9,105,149,573,1,"Il émet des ondes sonores de
+différentes fréquences par le nez.
+Certaines peuvent briser des rochers."
+529,drilbur,3,85,66,574,1,"Il peut creuser à plus de 50 km/h et
+faire la course avec une voiture roulant
+sur le terrain qu’il creuse."
+530,excadrill,7,404,178,575,1,"Ses vrilles en acier peuvent transpercer
+des poutres en fer. Il est très employé
+dans la construction de tunnels."
+531,audino,11,310,390,576,1,"Il ausculte les gens avec ses antennes
+auriculaires pour juger de leurs
+émotions ou de leur santé."
+532,timburr,6,125,61,577,1,"Il combat avec une poutre. Quand il en
+arrive à transporter de lourds madriers
+sans problème, l’évolution est proche."
+533,gurdurr,12,400,142,578,1,"Même une armée de catcheurs se
+jetant sur son corps hyper musclé
+ne le ferait pas ciller."
+534,conkeldurr,14,870,227,579,1,"On pense que la recette du ciment
+a été enseignée aux humains par
+un Bétochef il y a 2 000 ans."
+535,tympole,5,45,59,580,1,"Il prévient ses camarades du danger en
+faisant vibrer ses joues pour générer
+un signal d’alarme très aigu."
+536,palpitoad,8,170,134,581,1,"Quand il fait vibrer la bosse sur sa tête,
+il provoque des ondulations dans l’eau,
+mais aussi des tremblements de terre."
+537,seismitoad,15,620,225,582,1,"Il fait gicler un liquide paralysant des
+pustules sur sa tête, et attaque
+ses ennemis à coups de vibrations."
+538,throh,13,555,163,583,1,"Quand il noue sa ceinture, il devient
+plus puissant. Les Judokrak sauvages
+tressent leur ceinture avec des lianes."
+539,sawk,14,510,163,584,1,"Dans les montagnes où il s’entraîne, on
+peut l’entendre donner des coups de
+poing aux rochers et aux grands arbres."
+540,sewaddle,3,25,62,585,1,"Quand il éclot, Manternel lui coud son
+vêtement. Il dort en cachant son
+visage sous sa capuche."
+541,swadloon,5,73,133,586,1,"Dans les forêts où il vit, la végétation
+pousse bien car il transforme les
+feuilles mortes en engrais."
+542,leavanny,12,205,221,587,1,"Quand il trouve de petits Pokémon, il
+leur coud des vêtements de feuilles en
+utilisant ses coupoirs et son fil adhésif."
+543,venipede,4,53,52,588,1,"Sa morsure est très venimeuse.
+Elle paralyse même les grands
+Pokémon Oiseaux, ses prédateurs."
+544,whirlipede,12,585,126,589,1,"Protégé par sa solide carapace,
+il fonce sur ses ennemis en
+roulant comme un pneu."
+545,scolipede,25,2005,214,590,1,"Il accule l’ennemi par ses mouvements
+rapides et l’attaque avec ses cornes.
+Il ne s’arrête qu’au coup de grâce."
+546,cottonee,3,6,56,591,1,"Si on l’attaque, il projette un nuage de
+coton. L’ennemi le confond avec lui, ce
+qui permet à Doudouvet de s’enfuir."
+547,whimsicott,7,66,168,592,1,"Il se faufile comme le vent par les
+espaces les plus étroits, en laissant
+une touffe de poils blancs."
+548,petilil,5,66,56,593,1,"Les feuilles sur sa tête sont très
+amères, mais elles remettent d’aplomb
+les corps les plus éreintés."
+549,lilligant,11,163,168,594,1,"Même les Dresseurs confirmés ont
+du mal à faire éclore sa belle fleur.
+Un Pokémon apprécié des célébrités."
+550,basculin-red-striped,10,180,161,595,1,"Les bleus et les rouges se détestent
+cordialement et se battent dès qu’ils
+s’aperçoivent. Un Pokémon très violent."
+551,sandile,7,152,58,597,1,"Il vit dans le sable des déserts.
+Le sable chauffé par le soleil empêche
+son corps de refroidir."
+552,krokorok,10,334,123,598,1,"Ils vivent en petits groupes.
+La membrane qui couvre leurs yeux
+les protège du soleil."
+553,krookodile,15,963,229,599,1,"Il ne laisse jamais échapper ses proies.
+Ses mâchoires surpuissantes peuvent
+broyer une voiture."
+554,darumaka,6,375,63,600,1,"Quand le feu brûle dans son corps,
+il est tout excité et court partout.
+Quand le feu s’apaise, il s’endort."
+555,darmanitan-standard,13,929,168,601,1,"Il entretient des flammes à 1 400 °C
+dans son corps. De quoi détruire un
+camion-benne d’un coup de poing!"
+556,maractus,10,280,161,603,1,"Avec une danse et des sons saccadés,
+il fait fuir ses prédateurs, les Pokémon
+Oiseaux dévoreurs de graines de fleur."
+557,dwebble,3,145,65,604,1,"Il peut facilement creuser son trou
+dans les pierres les plus dures grâce
+au liquide sécrété par sa bouche."
+558,crustle,14,2000,166,605,1,"Entre eux, les querelles de territoire
+sont fréquentes et violentes. Celui qui
+se fait briser son rocher a perdu."
+559,scraggy,6,118,70,606,1,"Il remonte sa peau jusqu’à son cou pour
+se protéger. Elle a une constitution
+élastique qui absorbe les coups."
+560,scrafty,11,300,171,607,1,"Ils se regroupent pour rosser ceux
+qui pénètrent sur leur territoire.
+Ils crachent un venin corrosif."
+561,sigilyph,14,140,172,608,1,"On dit qu’il parcourt toujours le même
+itinéraire parce qu’il a gardé la mémoire
+de la ville antique qu’il protégeait."
+562,yamask,5,15,61,609,1,"Le motif de son masque est son visage
+quand il était humain. Parfois, il le
+regarde et se met à pleurer."
+563,cofagrigus,17,765,169,610,1,"Il paraît qu’il avale les gens
+et les transforme en momies.
+Il adore manger des lingots d’or."
+564,tirtouga,7,165,71,611,1,"Il a été recréé à partir d’un fossile
+préhistorique. Il peut plonger jusqu’à
+1 000 mètres de profondeur."
+565,carracosta,12,810,173,612,1,"Il vit sur terre et en mer.
+Ses bras surpuissants peuvent percer
+des trous dans la coque des paquebots."
+566,archen,5,95,71,613,1,"On dit qu’il serait l’ancêtre de tous les
+Pokémon Oiseaux. Il ne sait pas voler et
+se déplace en sautant d’arbre en arbre."
+567,archeops,14,320,177,614,1,"Il s’envole après avoir pris de l’élan.
+Il est assez intelligent pour chasser
+ses proies en groupe."
+568,trubbish,6,310,66,615,1,"Il aime les endroits mal tenus.
+Le gaz qu’il rote endort
+pendant une semaine."
+569,garbodor,19,1073,166,616,1,"Il étrangle ses ennemis avec son bras
+droit et les achève avec le gaz puant et
+empoisonné qu’il exhale par la bouche."
+570,zorua,7,125,66,617,1,"Il a le pouvoir de prendre l’apparence
+des autres. On dit qu’il se transforme
+souvent en petit enfant silencieux."
+571,zoroark,16,811,179,618,1,"Ces Pokémon protègent les leurs en
+prenant l’apparence de leurs ennemis.
+Ils forment des groupes très soudés."
+572,minccino,4,58,60,619,1,"Ils se saluent en se caressant
+mutuellement le corps avec la queue,
+qu’ils gardent toujours immaculée."
+573,cinccino,5,75,165,620,1,"Leurs poils blancs sont recouverts
+d’une graisse spéciale qui leur permet
+d’esquiver facilement les attaques."
+574,gothita,4,58,58,621,1,"Concentre des pouvoirs psychiques dans
+ses antennes semblables à des rubans,
+et regarde fixement... mais quoi?"
+575,gothorita,7,180,137,622,1,"Hypnotise les Pokémon et les gens. Il y a
+de nombreuses légendes de gens enlevés
+dans leur sommeil par des Mesmérella."
+576,gothitelle,15,440,221,623,1,"Ses pouvoirs psychiques plient l’espace
+aux alentours. On y voit des étoiles
+éloignées de millions d’années-lumière."
+577,solosis,3,10,58,624,1,"Ils repoussent leurs assaillants
+avec leurs pouvoirs psychiques et
+communiquent entre eux par télépathie."
+578,duosion,6,80,130,625,1,"Il possède deux cerveaux séparés
+qui le font parfois agir de façon
+totalement incohérente."
+579,reuniclus,10,201,221,626,1,"Quand ils se tiennent par la main,
+leurs cerveaux forment un réseau qui
+démultiplie leurs pouvoirs psychiques."
+580,ducklett,5,55,61,627,1,"Un Pokémon Oiseau doué pour la plongée.
+Il nage sous l’eau à la recherche de
+sphaigne, son plat préféré."
+581,swanna,13,242,166,628,1,"Ils se mettent à danser à la tombée
+de la nuit. Le Lakmécygne qui danse
+au centre est le chef de la troupe."
+582,vanillite,4,57,61,629,1,"Il exhale une haleine à -50 °C.
+Il fabrique des cristaux de neige
+et fait neiger autour de lui."
+583,vanillish,11,410,138,630,1,"Un Pokémon qui vit dans les montagnes
+enneigées. Il a émigré au sud durant
+l’ère glaciaire, il y a bien longtemps."
+584,vanilluxe,13,575,241,631,1,"Il avale de l’eau en grande quantité
+et la transforme en nuages neigeux.
+Il souffle du blizzard sur ses ennemis."
+585,deerling,6,195,67,632,1,"Son pelage prend la même couleur et la
+même odeur que les hautes herbes. S’il
+sent un ennemi, il court s’y réfugier."
+586,sawsbuck,19,925,166,633,1,"Il change d’habitat selon les saisons.
+Les gens constatent le passage des
+saisons en regardant ses ramures."
+587,emolga,4,50,150,634,1,"Il accumule dans ses membranes
+l’électricité qu’il produit dans ses
+bajoues, et la relâche tout en planant."
+588,karrablast,5,59,63,635,1,"Un Pokémon mystérieux qui évolue quand
+il reçoit un stimulus électrique en étant
+proche d’un Escargaume."
+589,escavalier,10,330,173,636,1,"Il vole à toute vitesse et frappe tout
+ennemi de ses lances pointues. Il combat
+bravement contre les plus forts que lui."
+590,foongus,2,10,59,637,1,"Grâce à sa ressemblance mystérieuse
+avec une Poké Ball, il attire ses ennemis
+et relâche des spores empoisonnées."
+591,amoonguss,6,105,162,638,1,"Il danse en faisant tournoyer les
+coupoles en forme de Poké Ball de
+ses bras pour attirer ses proies."
+592,frillish,12,330,67,639,1,"Il s’enfonce dans les profondeurs de la
+mer en emmenant son ennemi, qu’il ligote
+avec ses bras fins comme des voiles."
+593,jellicent,22,1350,168,640,1,"Les bateaux qui s’aventurent sur
+son territoire coulent, et Moyade
+aspire l’énergie vitale des marins."
+594,alomomola,12,316,165,641,1,"La membrane spéciale qui entoure
+son corps a la capacité de guérir
+les blessures."
+595,joltik,1,6,64,642,1,"Les Statitik qui vivent en ville ont
+appris à aspirer le courant depuis
+les prises électriques des maisons."
+596,galvantula,8,143,165,643,1,"Quand on l’attaque, il projette une
+multitude de fils électrifiés pour
+créer une barrière électrique."
+597,ferroseed,6,188,61,644,1,"Quand il sent un danger, il réagit en
+projetant toutes ses épines d’un coup
+et s’enfuit en roulant sur lui-même."
+598,ferrothorn,10,1100,171,645,1,"Il combat avec ses trois tentacules
+épineux. Un coup de ses épines d’acier
+peut briser en deux de gros rochers."
+599,klink,3,210,60,646,1,"La compatibilité entre ses deux rouages
+est prédéterminée. Ceux-ci ne se
+fixeront à aucun autre."
+600,klang,6,510,154,647,1,"Ils communiquent entre eux en changeant
+leur sens de rotation. Plus ils sont en
+colère, plus ils tournent vite."
+601,klinklang,6,810,234,648,1,"Son noyau rouge lui permet d’accumuler
+de l’énergie qu’il projette ensuite aux
+alentours grâce à ses pics."
+602,tynamo,2,3,55,649,1,"Tout seuls, ils ne dégagent pas beaucoup
+d’électricité, mais un banc d’Anchwatt
+produit la même puissance qu’un éclair."
+603,eelektrik,12,220,142,650,1,"Ses taches rondes émettent de
+l’électricité. Il s’enroule autour
+de ses proies et les électrocute."
+604,eelektross,21,805,232,651,1,"Il peut sortir de l’eau à la force de ses
+bras pour attraper des proies sur la
+rive. Il retourne à l’eau en un instant."
+605,elgyem,5,90,67,652,1,"Avec son puissant pouvoir psychique,
+il peut compresser le cerveau de ses
+ennemis et déclencher des migraines."
+606,beheeyem,10,345,170,653,1,"Il peut manipuler les souvenirs de
+ses ennemis et fait clignoter ses doigts
+tricolores pour discuter avec ses amis."
+607,litwick,3,31,55,654,1,"Sa flamme brûle en consumant
+l’énergie vitale des gens et
+des Pokémon."
+608,lampent,6,130,130,655,1,"Un Pokémon craint pour être de mauvais
+augure. Il erre dans les villes à la
+recherche d’âmes de défunts."
+609,chandelure,10,343,234,656,1,"Il brûle en aspirant les âmes, et
+hypnotise ses ennemis en faisant
+osciller les flammes de ses bras."
+610,axew,6,180,64,657,1,"Il broie les Baies à grands coups de
+crocs. Ceux-ci repoussent plusieurs
+fois, toujours plus forts et aiguisés."
+611,fraxure,10,360,144,658,1,"Comme ses crocs brisés ne repoussent
+pas, il les aiguise après le combat grâce
+à une pierre ramassée près d’un fleuve."
+612,haxorus,18,1055,243,659,1,"Il est doux, mais ne pardonne pas à ceux
+qui viennent saccager son territoire.
+Ses crocs peuvent découper de l’acier."
+613,cubchoo,5,85,61,660,1,"Quand il est malade, sa goutte au nez
+dégèle et ses capacités de type Glace
+deviennent moins efficaces."
+614,beartic,26,2600,170,661,1,"Il fait lui-même geler son haleine. Il
+est bon nageur et sillonne les mers
+du nord à la recherche de ses proies."
+615,cryogonal,11,1480,170,662,1,"Si sa température monte, il se dissipe
+en vapeur d’eau et disparaît. Quand
+elle diminue, il redevient de glace."
+616,shelmet,4,77,61,663,1,"Quand on l’attaque, il referme sa
+visière pour se défendre, et
+projette un poison visqueux."
+617,accelgor,8,253,173,664,1,"Quand son corps s’assèche, il faiblit.
+Il s’en prémunit en s’enroulant dans
+plusieurs couches d’une fine muqueuse."
+618,stunfisk,7,110,165,665,1,"Sa peau est si dure qu’il peut se faire
+piétiner par un sumo sans rien sentir.
+Il sourit en émettant de l’électricité."
+619,mienfoo,9,200,70,666,1,"Il découpe ses ennemis avec ses griffes
+acérées et les terrasse avec ses
+enchaînements de coups hyper fluides."
+620,mienshao,14,355,179,667,1,"Il se sert des poils de ses pattes
+antérieures comme de fouets. Ses coups
+ultrarapides sont invisibles à l’œil nu."
+621,druddigon,16,1390,170,668,1,"Il utilise ses ailes pour emmagasiner la
+chaleur du soleil. Si la température de
+son corps baisse, il ne peut plus bouger."
+622,golett,10,920,61,669,1,"Il se meut grâce à l’énergie stockée
+dans son corps. Personne ne sait d’où
+vient cette énergie mystérieuse."
+623,golurk,28,3300,169,670,1,"Il vole à la vitesse du son. Si le
+sceau sur sa poitrine est retiré,
+il perd tout contrôle de lui-même."
+624,pawniard,5,102,68,671,1,"Tout son corps est fait de lames.
+Si une lame s’émousse, il va l’aiguiser
+contre une pierre au bord d’une rivière."
+625,bisharp,16,700,172,672,1,"Ils dirigent les groupes de Scalpion.
+Ils se battent pour la suprématie sur le
+groupe, et les perdants en sont exclus."
+626,bouffalant,16,946,172,673,1,"Son pelage fourni absorbe les chocs
+et lui permet d’asséner sans broncher
+le plus violent des coups de tête."
+627,rufflet,5,105,70,674,1,"Il casse les Baies avec ses serres.
+Il combat courageusement, quelle que
+soit la force de l’adversaire."
+628,braviary,15,410,179,675,1,"Pour les siens, il combat au mépris du
+danger. Il est capable de soulever
+une voiture haut dans le ciel."
+629,vullaby,5,90,74,676,1,"Ses ailes sont trop petites pour lui
+permettre de voler. Quand l’évolution
+approche, il sort lui-même de sa coquille."
+630,mandibuzz,12,395,179,677,1,"Il construit des nids en os. Il attrape
+les proies affaiblies avec ses serres
+et les transporte allègrement au nid."
+631,heatmor,14,580,169,678,1,"Il aspire de l’air par la queue et
+entretient un brasier dans son corps.
+C’est le prédateur des Fermite."
+632,durant,3,330,169,679,1,"Ils portent une armure de fer et se
+regroupent pour contrer les attaques
+de leurs prédateurs, les Aflamanoir."
+633,deino,8,173,60,680,1,"Il mord tout ce qui bouge, et mange tout
+ce qu’il trouve. Il vaut mieux éviter
+de s’en approcher."
+634,zweilous,14,500,147,681,1,"Quand il a mangé tout ce qui traînait sur
+son territoire, il migre vers d’autres
+horizons. Ses 2 têtes s’entendent mal."
+635,hydreigon,18,1600,270,682,1,"Un Pokémon violent qui patrouille le ciel
+avec ses six ailes et se jette sur tout
+ce qui bouge, pensant voir un ennemi."
+636,larvesta,11,288,72,683,1,"On dit que ce Pokémon serait né du
+soleil. Lorsqu’il évolue, tout son
+corps est enveloppé de flammes."
+637,volcarona,16,460,248,684,1,"On dit que quand le ciel s’est obscurci à
+cause des cendres d’un volcan, le feu
+d’un Pyrax aurait remplacé le soleil."
+638,cobalion,21,2500,261,685,1,"Un Pokémon légendaire qui a combattu
+les humains pour protéger les Pokémon.
+Il est d’un naturel calme et posé."
+639,terrakion,19,2600,261,686,1,"Il a combattu les humains pour protéger
+les Pokémon ayant perdu leur foyer à
+cause de leurs guerres fratricides."
+640,virizion,20,2000,261,687,1,"Il a défié les humains pour protéger
+les siens. Son nom est resté dans
+la légende."
+641,tornadus-incarnate,15,630,261,688,1,"Le bas de son corps est entouré d’une
+masse d’énergie semblable à un nuage.
+Il vole dans le ciel à 300 km/h."
+642,thundurus-incarnate,15,610,261,690,1,"Les terres qu’il a survolées sont
+recouvertes d’innombrables traces
+des éclairs qu’il y a fait tomber."
+643,reshiram,32,3300,306,692,1,"Un Pokémon mythique.
+Il projette de sa queue un tourbillon
+de flammes capable de tout emporter."
+644,zekrom,29,3450,306,693,1,"Sa queue produit de l’électricité.
+Il dissimule son corps dans un nuage
+électrique et plane dans le ciel d’Unys."
+645,landorus-incarnate,15,680,270,694,1,"Il fait fructifier les cultures partout
+où il passe, c’est pourquoi on l’appelle
+“le dieu des moissons”."
+646,kyurem,30,3250,297,696,1,"Son corps produit une énergie à très
+basse température, mais le souffle
+glacé qu’il exhale l’a gelé lui-même."
+647,keldeo-ordinary,14,485,261,699,1,"Il projette de l’eau depuis ses sabots
+et se déplace ainsi à grande vitesse.
+Sa botte secrète est le coup de sabot."
+648,meloetta-aria,6,65,270,701,1,"Sa voix si particulière lui permet de
+chanter des mélodies qui ensorcellent
+les gens et modifient leurs émotions."
+649,genesect,15,825,270,703,1,"Il y a 300 millions d’années, il était
+craint comme l’ultime prédateur. Il a
+été modifié par la Team Plasma."
+650,chespin,0,0,0,704,1,"The quills on its head are usually soft.
+When it flexes them, the points become
+so hard and sharp that they can pierce rock."
+651,quilladin,0,0,0,705,1,"It relies on its sturdy shell to deflect predators’
+attacks. It counterattacks with its sharp quills."
+652,chesnaught,0,0,0,706,1,"Its Tackle is forceful enough to flip a 50-ton tank.
+It shields its allies from danger with its own body."
+653,fennekin,0,0,0,707,1,"Eating a twig fills it with energy,
+and its roomy ears give vent to air
+hotter than 390 degrees Fahrenheit."
+654,braixen,0,0,0,708,1,"It has a twig stuck in its tail. With
+friction from its tail fur, it sets the
+twig on fire and launches into battle."
+655,delphox,0,0,0,709,1,"It gazes into the flame at the tip of
+its branch to achieve a focused state,
+which allows it to see into the future."
+656,froakie,0,0,0,710,1,"It secretes flexible bubbles from its chest and back.
+The bubbles reduce the damage it would otherwise
+take when attacked."
+657,frogadier,0,0,0,711,1,"It can throw bubble-covered pebbles with precise
+control, hitting empty cans up to a hundred feet away."
+658,greninja,0,0,0,712,1,"It creates throwing stars out of compressed water.
+When it spins them and throws them at high speed,
+these stars can split metal in two."
+659,bunnelby,0,0,0,713,1,"They use their large ears to dig burrows.
+They will dig the whole night through."
+660,diggersby,0,0,0,714,1,"With their powerful ears, they can heft
+boulders of a ton or more with ease.
+They can be a big help at construction sites."
+661,fletchling,0,0,0,715,1,"These friendly Pokémon send signals
+to one another with beautiful chirps
+and tail-feather movements."
+662,fletchinder,0,0,0,716,1,"From its beak, it expels embers that set
+the tall grass on fire. Then it pounces on
+the bewildered prey that pop out of the grass."
+663,talonflame,0,0,0,717,1,"In the fever of an exciting battle, it
+showers embers from the gaps between
+ its feathers and takes to the air."
+664,scatterbug,0,0,0,718,1,"When under attack from bird Pokémon,
+it spews a poisonous black powder
+that causes paralysis on contact."
+665,spewpa,0,0,0,719,1,"It lives hidden within thicket shadows.
+When predators attack, it quickly bristles the fur
+covering its body in an effort to threaten them."
+666,vivillon,0,0,0,720,1,"Vivillon with many different patterns are
+found all over the world. These patterns
+are affected by the climate of their habitat."
+667,litleo,0,0,0,721,1,"The stronger the opponent it faces,
+the more heat surges from its mane
+and the more power flows through its body."
+668,pyroar,0,0,0,722,1,"The male with the largest mane of fire
+ is the leader of the pride."
+669,flabebe,0,0,0,723,1,"It draws out and controls the hidden power
+of flowers. The flower Flabébé holds
+is most likely part of its body."
+670,floette,0,0,0,724,1,"It flutters around fields of flowers and cares for
+flowers that are starting to wilt. It draws
+out the hidden power of flowers to battle."
+671,florges,0,0,0,725,1,"It claims exquisite flower gardens as its territory,
+and it obtains power from basking in the energy
+emitted by flowering plants."
+672,skiddo,0,0,0,726,1,"Thought to be one of the first Pokémon to live in
+harmony with humans, it has a placid disposition."
+673,gogoat,0,0,0,727,1,"It can tell how its Trainer is feeling by
+subtle shifts in the grip on its horns.
+This empathic sense lets them run as if one being."
+674,pancham,0,0,0,728,1,"It does its best to be taken seriously by its enemies,
+but its glare is not sufficiently intimidating.
+Chewing on a leaf is its trademark."
+675,pangoro,0,0,0,729,1,"Although it posses a violent temperament,
+it won’t put up with bullying. It uses the leaf in
+its mouth to sense the movements of its enemies."
+676,furfrou,0,0,0,730,1,"Trimming its fluffy fur not only makes
+it more elegant but also increases the
+swiftness of its movements."
+677,espurr,0,0,0,731,1,"The organ that emits its intense psychic power is
+sheltered by its ears to keep power from leaking out."
+678,meowstic-male,0,0,0,732,1,"When in danger, it raises its ears and
+releases enough psychic power to
+grind a 10-ton truck into dust."
+679,honedge,0,0,0,734,1,"Apparently this Pokémon is born when a
+departed spirit inhabits a sword. It attaches itself
+to people and drinks their life force."
+680,doublade,0,0,0,735,1,"When Honedge evolves, it divides into two swords,
+which cooperate via telepathy to coordinate attacks
+and slash their enemies to ribbons."
+681,aegislash-shield,0,0,0,736,1,"Generations of kings were attended by these
+Pokémon, which used their spectral power to
+manipulate and control people and Pokémon."
+682,spritzee,0,0,0,738,1,"It emits a scent that enraptures those
+who smell it. This fragance changes
+depending on what it has eaten."
+683,aromatisse,0,0,0,739,1,"It devises various scents, pleasant and unpleasant,
+and emits scents that its enemies dislike in order
+to gain an edge in battle."
+684,swirlix,0,0,0,740,1,"To entangle its opponents in battle, it extrudes
+white threads as sweet and sticky as cotton candy."
+685,slurpuff,0,0,0,741,1,"It can distinguish the faintest of scents.
+It puts its sensitive sense of smell to use
+by helping pastry chefs in their work."
+686,inkay,0,0,0,742,1,"Opponents who stare at the flashing of the
+light-emitting spots on its body become
+dazed and lose their will to fight."
+687,malamar,0,0,0,743,1,"It wields the most compelling hypnotic powers
+of any Pokémon, and it forces others to do
+whatever it wants."
+688,binacle,0,0,0,744,1,"Two Binacle live together on one rock.
+When they fight, one of them will move
+to a different rock."
+689,barbaracle,0,0,0,745,1,"When they evolve, two Binacle multiply into seven.
+They fight with the power of seven Binacle."
+690,skrelp,0,0,0,746,1,"Camouflaged as rotten kelp, they spray
+liquid poison on prey that approaches
+unawares and then finish it off."
+691,dragalge,0,0,0,747,1,"Their poison is strong enough to eat through
+the hull of a tanker, and they spit it indiscriminately
+at anything that enters their territory."
+692,clauncher,0,0,0,748,1,"They knock down flying prey by firing
+compressed water from their massive
+claws like shooting a pistol."
+693,clawitzer,0,0,0,749,1,"Their enormous claws launch cannonballs of
+water powerful enough to pierce tanker hulls."
+694,helioptile,0,0,0,750,1,"They make their home in deserts. They can
+generate their energy from basking in the sun,
+so eating food is not a requirement.
+"
+695,heliolisk,0,0,0,751,1,They flare their frills and generate energy. A single Heliolisk can generate sufficient electricity to power a skyscraper.
+696,tyrunt,0,0,0,752,1,"This Pokémon was restored from a fossil.
+If something happens that it doesn’t like,
+it throws a tantrum and runs wild."
+697,tyrantrum,0,0,0,753,1,"Thanks to its gargantuan jaws, which could shred
+thick metal plates as if they were paper, it was
+invincible in the ancient world it once inhabited."
+698,amaura,0,0,0,754,1,"This ancient Pokémon was restored
+from part of its body that had been
+frozen in ice for over 100 million years."
+699,aurorus,0,0,0,755,1,"The diamond-shaped crystals on its body
+expel air as cold as -240 degrees Fahrenheit,
+surrounding its enemies and encasing them in ice."
+700,sylveon,0,0,0,175,1,"It sends a soothing aura from its ribbonlike feelers to
+calm fights."
+701,hawlucha,0,0,0,756,1,"Although its body is small, its proficient
+fighting skills enable it to keep up with
+big bruisers like Machamp and Hariyama."
+702,dedenne,0,0,0,757,1,"Its whiskers serve as antennas. By sending and
+receiving electrical waves, it can communicate
+with others over vast distances."
+703,carbink,0,0,0,758,1,"Born from the temperatures and pressures
+deep underground, it fires beams from the
+stone in its head."
+704,goomy,0,0,0,759,1,"The weakest Dragon-Type Pokémon,
+it lives in damp, shady places, so its
+body doesn’t dry out."
+705,sliggoo,0,0,0,760,1,"It drives away opponents by excreting a
+sticky liquid that can dissolve anything.
+Its eyes devolved, so it can’t see anything.
+"
+706,goodra,0,0,0,761,1,"This very friendly Dragon-type Pokémon will hug its
+beloved trainer, leaving that trainer covered in sticky
+slime"
+707,klefki,0,0,0,762,1,"These key collectors threaten any attackers
+by fiercely jingling their keys at them."
+708,phantump,0,0,0,763,1,"These Pokémon are created when
+spirits possess rotten tree stumps.
+They prefer to live in abandoned forests."
+709,trevenant,0,0,0,764,1,"It can control trees at will. It will trap people
+who harm the forest, so they can never leave."
+710,pumpkaboo-average,0,0,0,765,1,"The pumpkin body is inhabited by a spirit
+trapped in this world. As the sun sets,
+it becomes restless and active."
+711,gourgeist-average,0,0,0,769,1,"Singing in eerie voices, they wander
+town streets on the night of the new moon.
+Anyone who hears their song is cursed."
+712,bergmite,0,0,0,773,1,"It blocks opponents’ attacks with the
+ice that shields its body. it uses cold air
+to repair any cracks with new ice."
+713,avalugg,0,0,0,774,1,"Its ice-covered body is as hard as steel.
+Its cumbersome frame crushes anything that
+stands in its way."
+714,noibat,0,0,0,775,1,"They live in pitch-black caves. Their enormous ears
+can emit ultrasonic waves of 200,000 hertz."
+715,noivern,0,0,0,776,1,"They fly around on moonless nights
+and attack careless prey. Nothing can
+beat them in a battle in the dark."
+716,xerneas,0,0,0,777,1,"Legends say it can share eternal life.
+It slept for a thousand years in the form
+of a tree before its revival."
+717,yveltal,0,0,0,778,1,"When this legendary Pokémon’s wings and
+tail feathers spread wide and glow red,
+it absorbs the life force of living creatures."
+718,zygarde,0,0,0,779,1,"When the Kalos region’s ecosystem falls into
+disarray, it appears and reveals its secret power.
+"
